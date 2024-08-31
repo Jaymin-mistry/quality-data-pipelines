@@ -12,6 +12,7 @@ ipykernel = "^6.29.5"
 dagster = "^1.8.2"
 great-expectations = "^1.0.0"
 xlsxwriter = "^3.2.0"
+dagster-webserver = "^1.8.2"
 
 [tool.dagster]
 module_name = "quality_data_pipelines.definitions"

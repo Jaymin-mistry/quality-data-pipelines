@@ -3,7 +3,12 @@
 *.json
 *.xls
 *.xlsx
+*.db
 
+# Dagster runs
+*.out
+*.err
+*.complete
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
