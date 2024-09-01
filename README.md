@@ -1,6 +1,6 @@
 # Quality data pipelines
 
-This is the repo for the EARL 2024 conference workshop "Building data pipelines in Python" https://earl-conference.com/  This repo contains the skeleton code to start the project, 
+This is the repo for the EARL 2024 conference workshop "Building data pipelines in Python" https://earl-conference.com/  This repo contains the skeleton code to start the project,
 
 ## Getting started
 

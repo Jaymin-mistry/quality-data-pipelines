@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# install virtualenv if not present 
+# install virtualenv if not present
 pip install virtualenv
 
 # create and activate virtual environment

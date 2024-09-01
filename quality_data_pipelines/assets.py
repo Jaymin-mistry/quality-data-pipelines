@@ -1,6 +1,5 @@
 import pandas as pd
-from dagster import asset
-from dagster import asset_check, AssetCheckResult, AssetCheckSeverity
+from dagster import AssetCheckResult, AssetCheckSeverity, asset, asset_check
 from great_expectations.dataset import PandasDataset
 
 from .data_functions import convert_negative_to_positive, put_in_age_group
@@ -13,13 +12,13 @@ def sales_records() -> pd.DataFrame:
     return df
 
 
-@asset 
+@asset
 def cleaned_sales_records(sales_records: pd.DataFrame) -> pd.DataFrame:
     sales_records["postage"] = sales_records["postage"].apply(convert_negative_to_positive)
     return sales_records
 
 
-@asset 
+@asset
 def sales_by_region(cleaned_sales_records: pd.DataFrame) -> pd.DataFrame:
     salesdf = cleaned_sales_records.groupby("State")["item_count"].agg({"sum", "min", "max", "count"}).reset_index()
     return salesdf
@@ -35,11 +34,9 @@ def sales_by_age_group(cleaned_sales_records: pd.DataFrame) -> pd.DataFrame:
     return grouped_ages_df
 
 
-@asset 
+@asset
 def create_sales_report(sales_by_age_group, sales_by_region) -> None:
-    output_path = (
-        "/home/jaymin/Documents/quality-data-pipelines/data/super_critical_business-report-2024-Aug-01.xlsx"
-    )
+    output_path = "/home/jaymin/Documents/quality-data-pipelines/data/super_critical_business-report-2024-Aug-01.xlsx"
     data = {"sales_by_region": sales_by_age_group, "sales_by_age": sales_by_region}
     with pd.ExcelWriter(output_path, engine="xlsxwriter") as writer:
         for sheetname, frame in data.items():
@@ -57,17 +54,16 @@ def check_positive_postage_in_cleaned_sales(cleaned_sales_records: pd.DataFrame)
     # Count number of rows of "postage" that are negative
     negative_postage_count = len(cleaned_sales_records[cleaned_sales_records["postage"] < 0])
     if negative_postage_count > 0:
-        return AssetCheckResult(passed=False,
+        return AssetCheckResult(
+            passed=False,
             description=f"{negative_postage_count} negative postage values found in cleaned sales records",
-            metadata={"negative_postage_count": int(negative_postage_count)}
+            metadata={"negative_postage_count": int(negative_postage_count)},
         )
     return AssetCheckResult(passed=True)
 
-    
+
 @asset_check(asset=cleaned_sales_records, blocking=True)
-def cleaned_sales_records_state_no_nulls(context,
-    cleaned_sales_records: pd.DataFrame
-    ) -> AssetCheckResult:
+def cleaned_sales_records_state_no_nulls(context, cleaned_sales_records: pd.DataFrame) -> AssetCheckResult:
     dataset = PandasDataset(cleaned_sales_records)
     check_outcome = dataset.expect_column_values_to_not_be_null(column="State")
     passed = check_outcome["success"]
