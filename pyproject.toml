@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "poetry-demo"
+name = "quality-data-pipelines"
 version = "0.1.0"
 description = ""
-authors = ["Sébastien Eustace <sebastien@eustace.io>"]
+authors = ["Jaymin Mistry"]
 readme = "README.md"
 packages = [{include = "quality_data_pipelines"}]
 
@@ -10,9 +10,11 @@ packages = [{include = "quality_data_pipelines"}]
 python = ">=3.9,<3.12"
 ipykernel = "^6.29.5"
 dagster = "^1.8.2"
-great-expectations = "^1.0.0"
-xlsxwriter = "^3.2.0"
 dagster-webserver = "^1.8.2"
+dagster-ge = "^0.24.4"
+great-expectations = "*"
+xlsxwriter = "^3.2.0"
+jinja2 = "^3.0.3"
 
 [tool.dagster]
 module_name = "quality_data_pipelines.definitions"
