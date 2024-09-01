@@ -1,4 +1,5 @@
 # Data
+data/
 *.csv
 *.json
 *.xls
@@ -9,6 +10,8 @@
 *.out
 *.err
 *.complete
+
+great_expectations/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
