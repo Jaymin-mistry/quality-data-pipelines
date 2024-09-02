@@ -1,0 +1,1001 @@
+uuid,first_name,last_name,Age,City,State,item_count,sale_value,postage,date,repeat_customer
+dd01e740-9750-48ba-a1c7-0577daee6f86,Tommy,Snyder,74,West Carlshire,Colorado,19,203.14,0.39,2024-03-01,False
+980a5bce-f75a-4d57-8766-2ee447f0dd70,Sabrina,Scott,27,Douglasborough,Idaho ,21,89.8,-4.27,2024-03-01,False
+11638260-a3f9-4fbc-bbba-9f4614bc76c4,Kevin,Lamb,49,Sarahside,Maryland,12,104.6,1.0,2024-03-01,True
+42b804c6-221f-495e-9a4e-8e5d3bd460c0,Terri,Carr,35,East Shawnton,Iowa,22,2.42,1.53,2024-03-01,True
+b55d45d6-9f09-4c4a-8731-049350bd8dc8,Jonathan,Taylor,64,South Edward,Idaho,20,313.29,-5.38,2024-03-01,True
+352ee739-7d68-45f0-be36-248878b3d040,Gloria,Adams,26,Lake Andrew,SOUTH CAROLINA,14,121.67,6.24,2024-03-01,False
+90978101-fc99-4548-af6d-3a7abbf20217,Cynthia,Glover,20,Collinsside,Pennsylvania,17,189.84,-6.57,2024-03-01,False
+79fd9842-3a19-4d0c-8fbb-23ee4068d8f5,Ashley,Rodriguez,70,Collinston,Kentucky,13,332.29,-3.17,2024-03-01,True
+5d814fe8-f138-43f4-bd3e-80317abe1c42,Tracey,Compton,46,Jonesborough,UTAH,20,421.87,-9.84,2024-03-01,True
+e23f6d35-e5f9-4f9f-9498-c521e867750c,Sheila,Davis,62,Alexandriastad,Arkansas,3,290.55,2.41,2024-03-01,True
+e09fc22c-772f-49f7-a81e-4d36bcfd06b7,Michael,Whitehead,26,Finleyfurt,Michigan,14,417.34,2.45,2024-03-01,False
+4b423685-3b7b-4dd6-be6b-bf104a3a1eb9,Zachary,Powell,50,New Jonathonmouth,Kentucky,23,229.11,3.2,2024-03-01,False
+21e37d10-86b2-4c96-a64c-f815650393e4,Karen,Molina,61,East Craig,New Mexico,13,155.89,5.32,2024-03-01,True
+7ad2a68c-e8e8-4ea9-a1ae-5cebab455c68,Ann,Harris,76,South Josephfort,Ohio ,8,384.3,6.66,2024-03-01,True
+6ef1f5dc-d62f-493f-aa34-3a679456f87b,Ashley,Ford,70,East Patrickshire,New Jersey,21,226.46,5.69,2024-03-01,False
+0b54e9ec-36bf-4840-9f01-82c1ff9bc6d7,Jonathan,Hansen,62,Reyesview,Georgia,2,400.93,4.23,2024-03-01,False
+896b632c-ee85-41af-8360-5ad919d37e29,Curtis,Cook,66,Donnaburgh,Delaware ,5,318.4,6.96,2024-03-01,False
+49a4a53c-a91e-48c8-bcdf-98ebcbe1d1fa,Joseph,Griffin,39,Jacobburgh,Utah,17,165.77,-6.97,2024-03-01,False
+4d88b66f-acd3-4be0-a7a6-d876041718a1,Cody,Curtis,40,East David,Mississippi,2,239.18,-6.62,2024-03-01,False
+696b8e6f-0a6f-44ce-979e-597d3b80a542,Julie,King,41,North Scott,Vermont ,0,207.43,-8.73,2024-03-01,True
+6280b098-1c9e-45de-8cf7-a259d983b656,Scott,Jackson,75,Harrisonfurt,Mississippi,12,435.53,4.24,2024-03-01,False
+584122eb-9b53-48e5-966c-ace766fe8b51,Jennifer,Jones,53,Suarezbury,Connecticut,14,272.8,-1.12,2024-03-01,True
+0d725132-b217-4cd7-a197-6145bc9ac1ee,Thomas,Medina,65,Holtville,Wisconsin,19,294.75,0.51,2024-03-01,False
+11a92f71-e4b2-4573-b64e-62e84344cfb4,Nichole,Cole,72,New Robinshire,Oregon,22,292.61,9.8,2024-03-01,False
+b780c372-3cc1-44ec-8bce-2cffca8864eb,Sean,Fuller,29,South Heather,Tennessee,18,491.78,-4.95,2024-03-02,True
+3cf1ad2a-6adf-4f87-b1c2-e3e8f4bad7bc,Justin,Johnson,72,Joneschester,Louisiana,6,193.33,-7.39,0.0,True
+ac8d1bc6-43ae-4e4e-9d8e-d120b14efff3,Brent,Lewis,55,Lake Richardborough,Arkansas,3,273.67,-2.13,2024-03-02,False
+abbaa983-fb1a-4a48-a7b1-6c8e034c8d95,Crystal,Butler,39,Port Melissashire,Arkansas,13,70.94,-1.64,2024-03-02,True
+a373380d-8daf-4e85-b9ed-f39d1b1d9408,Joshua,Bailey,60,Dannyshire,Minnesota,19,229.35,5.27,2024-03-02,False
+9e48760d-84e6-41c8-b80b-5b26c6329c2a,Holly,Thomas,67,Lake Kimberlytown,WISCONSIN ,18,56.47,7.96,2024-03-02,False
+0df7278f-bf56-41ec-803a-f22a5becf4d5,Nathaniel,Miller,51,Lake Donnamouth,North Carolina,2,402.32,8.63,2024-03-02,True
+3172249c-6a72-4a27-adee-4cbf75a5e9db,Joseph,Gray,19,Andersenborough,Mississippi,13,304.62,6.4,2024-03-02,True
+49953c7f-5d4c-408e-a167-463f79f7aa28,Rhonda,Riley,20,North Jenniferburgh,Ohio,8,363.91,-7.16,2024-03-02,True
+4b33de4b-23eb-4d90-b639-0f2b90796092,Brandon,Carter,62,Port Kevin,Maryland,16,91.29,3.39,0.0,False
+87001f42-1756-4051-8de4-fff7d0e9492a,Jessica,Haas,38,Johnsonberg,West Virginia,13,152.97,6.38,2024-03-02,True
+39b5fc6e-c813-4d1f-8b3e-b8feeac07c40,Matthew,Lewis,73,North Keith,TEXAS,5,261.44,-6.97,2024-03-02,True
+f49f002d-97bc-44da-9fc4-df823d169ab0,Ronald,Davis,32,Port Joshuaburgh,Michigan,7,275.9,0.27,2024-03-02,False
+9d5f40d7-cbbf-45f9-95a8-01fc1284d70b,Dwayne,Allen,27,Port April,Ohio,20,103.48,5.33,0.0,True
+cd2019da-6817-4a9a-97b5-7df82db63b28,Matthew,Marks,47,North Elizabeth,Florida,9,406.65,5.75,2024-03-02,True
+d73cc954-d6ab-4f32-a8f4-202401b282db,Kimberly,Jones,76,Catherineport,Arkansas,5,385.8,6.39,2024-03-02,False
+db9e7623-7180-443c-b903-3a15532c8d88,Heather,Morales,26,Boyershire,Louisiana,11,126.71,8.37,2024-03-02,True
+0a7ae14e-3528-4fcc-a9be-ec1092bd9e1e,Wyatt,Johnson,59,Benjaminburgh,Missouri ,2,257.11,-5.38,2024-03-02,False
+63a7d124-c560-42e2-806e-5d9c37d5153a,Ryan,Schmidt,57,Reginastad,Alaska ,6,46.26,-8.28,2024-03-02,False
+32a556d4-ae56-4c44-927c-68bdf650a6b5,Isaiah,Gallagher,71,Powellburgh,Nevada ,10,404.38,-5.89,2024-03-02,True
+b248b1b0-4294-4046-8537-fdeacad0c6af,Brian,Arnold,60,East Ralphbury,Indiana,18,78.44,-4.11,2024-03-02,True
+27275a9a-e510-4527-8939-211b14fbd7e8,Timothy,Harper,24,West Joshuatown,Wisconsin,7,498.44,-4.67,2024-03-02,True
+c1b213a4-3645-443b-aa88-6fee12ba84da,Lindsey,Carlson,51,New Yvetteport,Vermont,0,320.19,3.62,2024-03-02,False
+d21f375e-faec-4496-89c4-3b4df1162157,Kevin,Campbell,46,Jonesfort,Texas,8,424.28,-7.31,2024-03-02,False
+5df00a1f-f69a-4b23-847d-c7fb59915324,Nicholas,Case,53,West Evan,ILLINOIS,21,302.77,9.19,2024-03-02,True
+3ba39a6e-4871-4b71-b5ae-30acf83ae972,Susan,Collier,25,Lake Jessica,South Dakota,9,166.27,7.13,2024-03-02,True
+83218ced-5b06-4ce2-bd93-1278267871a7,Susan,Powell,53,Anaville,Florida ,8,254.71,0.45,2024-03-02,True
+dc8f06d8-3494-4d54-80e2-333dce11ea21,Amy,Richardson,71,West Jeffrey,Kansas,12,246.19,1.66,2024-03-02,True
+c44a898b-bbcb-4a7e-9527-264ca0466105,Elizabeth,Mcknight,28,Sheltonhaven,South Dakota,2,309.7,-8.9,2024-03-02,False
+abc49507-383d-4679-bb95-600850c2db34,Jason,Walker,29,Lake Kellymouth,Florida,4,63.6,4.49,2024-03-02,False
+e2ba4299-1de5-4cc4-82f4-184c5b9f3d0b,Donna,Hall,20,New Melissa,Arkansas,18,354.4,4.37,2024-03-02,True
+ba9293bd-1771-4316-b53b-52f2acb400ac,Andrew,Richardson,27,Robertsstad,Tennessee ,14,231.27,5.16,2024-03-02,True
+3ae0eea2-acf2-4255-9e72-b8bae47479ed,Danielle,Singh,28,New Katieville,Wisconsin ,12,283.88,-6.39,2024-03-02,False
+6268e26f-c62d-4a78-8b41-b83e098cd358,Kaitlyn,Mills,56,West Caleb,CONNECTICUT ,1,157.7,-1.4,2024-03-02,False
+c40643dc-93cc-44a2-8d9f-b0161473f44c,Robert,Salazar,19,Kristaberg,California ,2,127.94,0.87,2024-03-02,True
+fa59d3e5-bc99-405c-8075-fd088d18e8e5,Adam,Hampton,72,Mitchellport,Wyoming ,0,372.63,4.78,2024-03-02,False
+1ef78a2a-4a74-49e5-a89f-96b724077f97,Brian,Griffin,76,New Betty,Kansas,13,105.48,-5.65,2024-03-03,False
+132adf49-0b4b-4a07-a95e-7bee61b9ca7e,Julie,Hogan,66,Delacruzland,Montana,1,82.49,3.28,2024-03-03,False
+5ea13688-ec28-4fd1-8f08-91034b7d1279,Karen,Avery,54,New Jeremiah,Nebraska,12,335.4,-7.69,2024-03-03,False
+153bf3a3-c42d-43b6-92db-d4aa4a2b66ed,Dominic,Sanders,72,Carrollville,Oregon,15,146.41,-4.55,2024-03-03,True
+635fdd44-ddc6-4c42-8aae-e0d2fbe6e055,Ian,Middleton,22,Carterfurt,Massachusetts,15,117.9,9.3,2024-03-03,True
+91857409-d89d-4b3c-962a-b2078a846302,Melissa,Young,55,Clarkshire,New Jersey,5,87.16,3.58,2024-03-03,True
+881df7bb-cedb-4e73-b5e2-ef83457948a3,Tyler,Cook,31,South Tinachester,Iowa,10,264.48,5.99,0.0,False
+a4ef43f9-7a46-467c-a74f-096cbb808de3,Michael,Singleton,44,South Timothystad,West Virginia ,8,133.34,-6.65,2024-03-03,True
+f0c04024-8f1a-4970-9a51-842b8c15f1b1,Samantha,Cohen,47,Stephensonbury,Louisiana ,16,498.73,9.9,2024-03-03,True
+bc97dcd6-2e0f-4dbd-a0c3-5de3e98dd51f,Joshua,Torres,50,West Cynthia,California,1,199.34,3.99,0.0,True
+aa0fd79d-c1eb-4fcd-9945-041810ac367e,Vanessa,Rose,23,Wilsonside,Illinois,11,329.79,-8.5,2024-03-03,True
+3eaf44c4-5209-4c5c-890d-a491884c4bd5,Matthew,Curry,54,Port Joshua,Washington ,22,292.15,1.6,2024-03-03,True
+4a7022ef-78e4-48bb-b5f8-ca03a67f61f8,Andrea,Wallace,52,East Christopher,Nevada,9,298.54,8.25,2024-03-03,False
+080737b7-833c-41eb-a8ca-c5389cf41682,Timothy,Smith,23,Wilkinsfort,Illinois,1,157.91,1.48,2024-03-03,True
+b615675f-f3fb-4a3d-b526-05f5c2ed59a5,Nancy,Bryan,18,East Margaretfort,Alaska,19,22.33,3.1,2024-03-03,True
+64b4ec70-2e2f-4f73-8dba-087d136011bb,Kimberly,Sanchez,67,South Lawrence,Missouri,11,233.61,-1.6,2024-03-03,True
+0159a07f-225f-4696-8ebb-b4997a682cc3,Mark,Alvarez,41,North Brenda,Illinois,1,331.39,-2.99,2024-03-03,True
+6d1cd6a6-b26e-42d1-a353-666e5e3bd326,Angel,Shields,51,Kaiserstad,Louisiana,-18,379.74,-4.4,2024-03-03,True
+e97536c7-e957-4b5d-9802-1378a5ed8b6a,Marc,Munoz,28,Timothyshire,Washington,12,493.54,3.7,2024-03-03,False
+c198a45f-1d98-4484-b49e-fb0069ad643c,Jennifer,Cline,53,Kellitown,West Virginia,16,279.0,-1.21,2024-03-03,True
+738ea419-7eb0-41c3-a38f-9e045a2ffabf,David,Maldonado,78,Raymondside,New Hampshire,10,34.8,-8.38,2024-03-03,True
+ec44b93c-c381-4f61-a864-e4ff425d00fa,Heather,Lawrence,45,Mackenziefurt,Maine,12,382.56,6.17,2024-03-03,True
+6a53c91e-ef85-42f1-9786-b40a159bb455,Thomas,Gonzales,28,New Brandistad,Louisiana ,23,347.2,-5.23,2024-03-03,True
+46bb6328-d835-4818-a1a5-91461805cc95,Stephanie,Zimmerman,49,Rodrigueztown,Alaska,20,183.25,7.0,2024-03-03,False
+1079f195-138a-47a9-991b-a7fc0ee163d3,Paul,Velez,31,Lake Timothy,Louisiana,7,333.14,3.96,2024-03-03,True
+3b2c8bd6-b10d-46fb-8533-13f7ffe33eb4,Russell,Peterson,23,Whiteshire,North Dakota,12,238.62,5.68,2024-03-03,True
+aa9edc9a-75e6-40cf-8246-4b396d069d10,Amy,Ware,75,New Shelleyberg,Texas ,5,41.76,-2.41,2024-03-03,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Mark,Carroll,52,West Marcstad,Pennsylvania,22,138.96,-1.82,0.0,True
+45b034a2-7b0c-4c94-84c0-65e9bc988d89,Mark,Bonilla,53,Aliland,Mississippi,7,25.12,3.43,0.0,False
+1bd34f17-53b2-4460-b790-f77b1d32fcfa,Brett,Wolfe,60,Lake Christopherview,Arkansas,5,179.5,2.63,2024-03-03,True
+18fc80be-57c5-46ce-b2d5-2d2f2776222c,Craig,Curtis,26,Murrayside,Alaska ,0,33.7,6.49,2024-03-03,False
+4b7da168-aa56-4ca2-908c-ecf82b1e05ae,Tiffany,Miller,80,East Yesenia,NORTH CAROLINA,18,145.52,-2.1,2024-03-03,False
+0d048b9f-db8b-41c2-832b-9ce84e61fbff,Alexandria,Oconnor,29,New Nancy,Iowa,8,87.31,-8.64,2024-03-03,True
+dae2bce5-dc7b-40be-85c0-e7ceb76e9e29,Denise,Thompson,68,Tylershire,Florida,0,445.14,-7.42,2024-03-03,True
+f3e275aa-2c81-4fb2-93f6-8fe71b92502d,Ana,Young,67,North Susan,Georgia,3,219.7,1.25,2024-03-03,True
+3c251e51-c619-4c0f-a677-54f2177c441d,Rachel,Lopez,57,South Natasha,North Carolina,0,473.31,0.79,2024-03-03,False
+0230b554-fec5-4074-889b-3b2b6d707e7e,Colleen,Smith,40,Johntown,Tennessee,1,366.85,6.49,2024-03-03,False
+c368bc61-799d-424b-8496-1393597718fd,Rachael,Rodriguez,58,South Michelle,Ohio,20,402.8,7.33,2024-03-03,False
+dd0e1d69-01f2-4d3e-b99d-6a21c3f727e8,Scott,Wright,62,Aaronmouth,Maine,11,127.82,0.68,2024-03-03,False
+a7760037-f6a9-4297-a20a-0c6d77ae4d1a,Michelle,Jackson,57,Carolville,COLORADO,14,19.36,-4.66,2024-03-03,True
+226b6738-7223-43db-971d-2c7a383e76cc,Elizabeth,Robinson,62,Wrightview,Oregon,8,487.88,4.93,2024-03-03,False
+f872b5be-fd3d-4794-b507-66c07f269df0,Amanda,Mcbride,78,Leachchester,Virginia,21,185.77,2.18,2024-03-03,True
+a0df20b3-a471-4d59-9a5b-51ed99715d16,Tony,Trevino,61,Johnville,Idaho,2,85.7,5.36,2024-03-03,False
+faec2567-84c8-4483-849c-c238ca577958,Megan,Fox,58,Washingtonstad,Colorado,10,453.1,-2.71,2024-03-03,True
+a95248f4-5bd2-4877-8377-962cb5fb30da,Deborah,James,45,Patelfurt,Minnesota,0,201.63,2.49,2024-03-04,False
+ab01f435-4497-4062-b1eb-a1821eca580f,Spencer,Williams,53,Donaldchester,Georgia ,1,42.81,-5.59,2024-03-04,False
+e36f7901-43ab-4d21-9087-efa7982ec572,Victoria,Reilly,35,Travisborough,MICHIGAN,-10,326.53,4.82,2024-03-04,False
+3dea5311-4fa0-4b47-8403-07d50b337e9c,Latoya,Brock,75,West Josephton,Rhode Island,-10,189.28,-2.46,2024-03-04,False
+ca18b567-e80e-4357-bdaa-959c2f1e22d4,Tracy,Price,63,Jacksonside,South Carolina,0,58.5,-7.57,2024-03-04,True
+c2201f41-5533-466d-be53-69a2ef1e74eb,Michelle,Thomas,44,Brianshire,Oklahoma,16,383.5,-6.31,2024-03-04,True
+f15aeffc-0b9c-4c12-ac40-4e360b90cf48,Jeffrey,Watkins,35,West Lisa,Utah,11,260.62,7.57,2024-03-04,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Anthony,Huffman,51,North Kelly,New York ,19,108.11,0.94,2024-03-04,False
+9bddde80-21cd-4986-8b97-95d9115754fe,Nancy,Morris,23,North Austintown,Idaho,21,344.31,0.97,2024-03-04,True
+3aba979e-bc21-4571-b19e-338b02ed1ace,Deborah,Ray,71,Jordanside,Michigan ,14,177.17,-6.65,2024-03-04,False
+e95796e0-7441-44c4-a96a-b810ed76f2af,Sandra,Santiago,69,Port Laura,Washington,18,339.9,-8.22,2024-03-04,False
+adfd8770-85ad-4b1d-82b0-820545025bf1,Angela,Wells,46,West Calebchester,Texas,13,89.71,6.15,2024-03-04,False
+9ef7e966-8ba0-48cd-a8ba-def03d5e7818,John,Williamson,68,Hallfurt,Mississippi,9,344.58,-4.2,2024-03-04,False
+13c88e01-1049-4aa2-b00f-3b2d1c7289cc,Rachel,Woods,60,Port David,West Virginia ,16,87.8,4.3,2024-03-04,False
+1d738694-4a70-47ff-82bc-e5f02d27c3b4,Sherry,Rogers,24,Rogersborough,Hawaii,3,144.78,3.68,2024-03-04,False
+89c8a145-a5ee-4e50-b8fb-f13ffb08f000,Amber,Wood,30,Lake Katherineborough,Texas,21,143.8,0.37,2024-03-04,True
+c325e0e5-61cd-4781-95f9-e89a9a5b84c3,Clayton,Cohen,54,East Timothy,Iowa,21,288.75,-6.9,2024-03-04,False
+dd9c3619-8dfd-4bfa-b618-a3b01657c5cf,Emily,Ruiz,54,Perryside,Illinois,1,318.53,5.18,2024-03-04,True
+8af7a7b0-21f7-47ae-981e-9c8c9127a4dc,Melissa,Roberts,29,West Michelle,ILLINOIS,22,181.46,-4.26,2024-03-04,False
+15051553-c7bd-4b44-9959-9eed405e588a,Laura,Harris,48,Klineport,Maine ,3,422.56,5.4,2024-03-04,True
+e03adc32-4b6b-4244-9d56-5963d82ceea3,Brian,Haas,63,New Joseph,Kansas ,11,112.56,-9.86,2024-03-04,True
+7b731c68-7a1f-4f10-a235-2d1b85eeb8e9,Chelsea,Duncan,24,Kevinland,California,20,273.9,2.1,2024-03-04,False
+806ddcd7-7a82-44d8-82b6-7aeb1961c9ba,Daniel,Young,20,Millerfurt,Massachusetts,0,429.79,5.29,2024-03-04,False
+f53c9970-d71f-4f8f-987f-a7228ad8f190,Brittany,Jones,39,New Matthew,Virginia,19,343.13,8.14,2024-03-04,False
+2991da35-fc4e-4228-9254-8703bb73890e,Christopher,Diaz,40,West Leemouth,Indiana ,17,140.44,-4.33,2024-03-04,True
+4d4621e9-394a-4fb1-b675-b7323c00ff2b,Jacqueline,Blair,69,Davisville,New York,20,160.33,-5.43,2024-03-04,False
+099d7bf1-a8b4-4ddc-9bce-d1dcf93a5d60,Amanda,Peterson,80,West Tina,Wisconsin,1,231.44,2.9,2024-03-04,True
+aa6dca5b-9e6a-447e-acc3-a551b42e3d21,Amy,Steele,69,South Danielle,Delaware,10,5.28,-6.2,2024-03-04,False
+82177b3a-e92c-4ca2-a92c-7ec1d2e73bcd,Jacob,Armstrong,29,South Willie,Minnesota,4,483.13,-4.32,2024-03-05,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Ryan,Burns,25,Anthonybury,Louisiana,8,8.66,2.55,2024-03-05,False
+126063c1-2ceb-45f4-89f2-f4b077298808,Steven,Allen,66,South Robertstad,New Jersey,10,242.21,-9.0,2024-03-05,False
+bf17b70a-0362-4b15-bb3c-ef25380192df,Meghan,Nixon,24,New Andrewberg,Rhode Island ,15,469.82,-9.76,2024-03-05,False
+2e6fa6d5-6896-41a2-acbf-a47c9ab69a18,Michelle,Coleman,72,East Sharonport,New York,18,246.94,-8.18,2024-03-05,False
+676c5432-20df-4ea8-aca9-13c4a3109dd6,Cynthia,Martinez,40,Reginaborough,NEW JERSEY,7,148.6,-8.3,2024-03-05,True
+95d85f8a-d87a-42f2-956f-c53c476e623e,Kellie,Allen,40,East Rebecca,Wyoming ,1,200.66,4.42,2024-03-05,True
+6c6fcf2a-fd85-43be-b0ed-dd422abd6df7,Tony,Howard,36,Thompsonside,Kentucky,23,85.28,-7.23,2024-03-05,False
+85b2053e-a4c5-482c-b9f6-692686310daf,Tina,Caldwell,30,South John,Tennessee,20,70.46,-4.34,2024-03-05,False
+1759347e-478c-4b86-92f0-f1b6e330e575,Savannah,Hall,44,West Samuel,West Virginia,1,228.78,8.6,2024-03-05,False
+e081b0eb-6b28-4311-b7ea-e890089c4de3,Christopher,Glass,49,Hardinbury,South Dakota,22,281.69,-3.61,2024-03-05,True
+c934d872-842d-4cb7-9358-2c4ac3ae202c,Daniel,Walsh,44,Melissashire,Ohio,6,340.42,4.39,2024-03-05,True
+bd6131dc-96e6-4991-8bf0-0d715ccef9de,Jacob,Hardin,55,Davisshire,ARIZONA ,23,171.63,8.14,2024-03-05,True
+ad58a567-fb99-4833-b0eb-1f02ba2ee8fb,Gabrielle,Wade,60,North Cheryl,Oklahoma,7,256.26,-2.16,2024-03-05,False
+d8807570-a1d8-457d-b785-05353a12d0c1,Donald,Cunningham,22,Carpentershire,North Carolina,23,467.75,-6.49,2024-03-05,True
+ecfe512e-b845-41ca-b323-097c014d38db,Brittany,Miller,65,East Raymondshire,Rhode Island,23,486.8,-7.6,2024-03-05,False
+94f70e9c-ba85-4d6c-b2cf-1abaec0d5835,Raven,Schultz,43,Port Johnfort,South Dakota ,12,381.59,-5.29,2024-03-05,True
+df61460c-2497-4ee4-8e07-f052ee78608b,Cynthia,Shaffer,76,New Reneeshire,New Mexico,8,74.22,-9.34,2024-03-05,False
+fc631fdc-1097-4bf9-b645-700fcc1e14e2,Sonia,White,23,New Gregory,Connecticut,8,406.37,-6.52,2024-03-05,False
+08030819-094c-43c5-b7c2-ae86451534ed,Rebecca,Ballard,23,South Jamesport,Pennsylvania ,-12,345.58,3.93,2024-03-05,False
+f8e13700-a4bb-4724-8867-a86d18f33201,Angela,Thomas,69,Parkerfurt,South Dakota ,22,69.29,9.24,2024-03-05,False
+09d2574f-d1f5-4d4a-a9e6-e2e0c29132e4,Jimmy,Martinez,23,North Laurieland,Minnesota,12,355.89,5.6,2024-03-05,True
+fce69365-c187-4cbb-b60d-66b757e1a639,Jonathan,Duran,58,Port Benjaminland,NEBRASKA,17,58.8,-8.6,2024-03-05,True
+2fdc273c-99c3-4425-ac12-b94afea3bf11,Jennifer,Webster,27,North Nicholas,Connecticut,1,18.29,6.61,2024-03-05,True
+33b382a2-a716-42d4-93df-c5eb7347b45a,Brian,Davis,62,Kelleyland,Utah,13,379.37,6.59,2024-03-06,False
+d57fa519-a00a-4015-8618-008acc762a87,Roger,Baker,19,Port Patrick,Nebraska,4,117.31,1.21,2024-03-06,False
+3e4d9ab7-e913-40b0-904e-7d07752b4493,Mariah,Murray,23,East Christine,North Carolina,16,125.34,8.79,2024-03-06,True
+6566bbd0-1c7e-4107-9edd-99b913f0eaee,John,Norris,54,New Timothymouth,CONNECTICUT ,2,430.4,-5.62,2024-03-06,False
+84149d76-67f2-4ee6-a4a7-e42699c2c53d,Nicholas,Flores,45,New Danielstad,NEW HAMPSHIRE,5,58.96,-2.37,2024-03-06,True
+8391fc9d-5134-4605-84c2-84fef0a04292,Natasha,Mitchell,34,Lake Johnny,Maine,1,347.26,3.57,2024-03-06,False
+f2ecfb5f-d3db-4fac-bdc7-ddce77a6517f,Nancy,Bates,59,Lake Chadhaven,Illinois,5,393.41,8.52,2024-03-06,True
+dd21a37a-1dfd-410a-ae65-6e1d63107302,Justin,Jackson,28,New Brooke,Kentucky,2,153.28,1.29,2024-03-06,True
+7c7d5701-26ee-43ec-b378-25d92b2b0f24,Laura,Anderson,20,Morgantown,Maine ,16,424.61,-5.3,2024-03-06,False
+5e7b656c-4322-4e88-b3b3-617e760608f9,Krista,Edwards,37,Port Shelby,California,7,142.69,3.42,2024-03-06,True
+c4241640-9b43-4723-a1ba-f797b34cad3a,Tyler,Baker,73,Dannyhaven,Massachusetts ,13,121.13,9.35,2024-03-06,True
+5d1be0ed-e09b-4177-b212-52e245b3a50f,April,Stewart,58,New Virginiafort,LOUISIANA ,10,93.45,-9.75,2024-03-06,False
+75627f10-115a-4ce4-a79e-e671368471f0,Travis,Miller,40,Brycehaven,Maine,22,265.38,9.15,2024-03-06,True
+ebcc706a-e334-4469-9b2f-f6f21c918228,Tara,Thomas,30,East Randy,Hawaii,16,125.49,-4.78,2024-03-06,False
+49a55b7f-eb6c-45f3-89f5-ea11b2411145,Daniel,Harper,65,Curtisside,Maryland ,8,191.58,6.92,2024-03-06,True
+9ad6365f-d1f2-430a-ac68-26a3e7328643,Ray,Williams,60,North Brittany,North Dakota,15,472.65,5.13,2024-03-06,True
+dac3093a-b7ea-4383-a86c-c4a2edfdcbad,Gerald,Edwards,21,Lake Nicholashaven,Oklahoma,6,42.76,1.37,2024-03-06,False
+996350fd-5e66-48b3-9457-269dfa1087c9,Matthew,Mullen,75,Christopherhaven,Minnesota ,15,65.5,9.83,2024-03-06,False
+c10230d6-a0b9-4259-b89c-b3462488e5e4,Paul,Davis,41,Lake Tiffanyhaven,West Virginia,18,130.7,-6.72,2024-03-06,True
+36468770-5962-4b73-a116-da773e9a0a1d,Courtney,Martin,59,Torresshire,NORTH DAKOTA,0,47.97,-1.74,2024-03-06,True
+69c560eb-1509-4b3c-80ff-98215f3f1a03,Carlos,Price,59,Lake Tylerborough,Minnesota,20,257.3,-6.21,2024-03-06,True
+1e7fa992-b554-4780-84fa-56191780f77c,Jacob,Weeks,41,Fowlermouth,Kansas,13,317.21,-8.45,2024-03-06,True
+8342e3a4-2c5e-4180-8537-d5e612e1b74e,Todd,Lewis,54,Lake Davidville,Michigan,18,393.21,-4.68,2024-03-06,False
+103532f6-0e8c-41b4-b3e4-6f3884e3219e,Marvin,Stewart,66,Kimberlychester,Nebraska,3,39.38,-1.55,2024-03-06,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Katie,Weaver,69,West Donald,MICHIGAN,10,435.49,6.5,2024-03-06,False
+e2f94428-b508-49f5-b74e-844b1b80d010,Jeremiah,Mercer,21,Seanland,Oregon,12,112.85,8.26,2024-03-06,False
+234a13e9-ce3b-4ddc-93b5-472aed46855c,Gregory,Lawrence,26,Lake Cindymouth,Mississippi,16,50.17,-5.12,2024-03-06,True
+1a42b7a6-cdc6-4f9a-8872-9eab39ac694b,Lauren,Smith,66,Lake Jason,Arkansas,3,69.28,7.45,2024-03-06,True
+db8200eb-2395-4a02-9c78-e5b3c63683c0,Susan,Branch,72,New Brittany,Georgia,20,28.21,0.34,0.0,False
+7a874121-c35f-4ccd-ae1a-ad40c37ec13a,Ronald,Fry,70,Williamschester,Colorado,12,46.41,8.15,2024-03-06,True
+0e22ea28-a69a-48c6-96f4-c66442920e13,Paula,Brown,51,Martinezhaven,Indiana,4,351.7,6.7,2024-03-06,True
+32d66302-8472-4620-aa7d-cd4b8129bda7,Suzanne,Allen,47,Travisland,Washington ,23,74.96,-1.57,2024-03-06,False
+860b3b89-a6f0-4ca1-9749-2bff68931663,Andrea,Long,21,South Matthew,New York,9,343.41,7.53,2024-03-06,True
+e5eef315-65ba-48e6-a9b9-7009c4bd37dd,Daniel,Clark,21,Davidburgh,Oregon ,16,60.64,-1.66,2024-03-06,True
+b12697ed-6b4f-4670-b89a-6c33f7dd1b7c,Donald,Fernandez,54,East Amber,Wisconsin,14,243.66,-2.14,2024-03-06,True
+f100d55a-97d8-44b4-af72-9fa0ec77e966,Kristy,Mckenzie,35,Lake Rebecca,Alaska,-23,496.53,0.79,2024-03-06,True
+4b47c6a4-146e-4547-9882-3ef6abf734e2,Darrell,Turner,38,Ericfort,COLORADO,3,418.0,-5.81,2024-03-06,False
+2b4eac30-9cb3-4cfc-912a-893384d94843,James,Smith,61,Justinview,Tennessee,-7,284.86,-4.83,2024-03-07,True
+ffa895c0-dcfc-4f8e-aa4b-50776bb9cbb2,Stephen,Berg,29,Ginamouth,West Virginia,6,284.5,-5.62,2024-03-07,False
+43a7d54c-ed23-4149-9364-0027b6099a55,Richard,Dominguez,76,South Toni,UTAH ,11,164.83,-5.63,2024-03-07,True
+0311304e-3b6b-497f-bdb8-183d82deb7e3,Shane,Whitehead,55,Josephmouth,Michigan,6,34.7,4.13,2024-03-07,False
+e98ce86b-e2a4-4d41-8abb-c0ea4d6c0efe,April,Sullivan,68,Wrightberg,California,16,13.71,-8.83,2024-03-07,False
+8bef7e38-f805-49b4-bea7-8c2ac001a705,Charles,Lewis,27,Washingtonmouth,Florida ,19,425.91,-4.7,2024-03-07,True
+d07c8f94-d5e6-445a-86ab-45a8e5457d3b,Patricia,Mejia,44,North Robertport,New York,19,235.68,2.43,2024-03-07,False
+bae125d4-1d1f-46c0-b10b-2ef9fa6eef49,Kathleen,Bridges,43,New Megan,South Carolina,12,358.99,5.74,2024-03-07,True
+2846b4d7-d5df-43d7-98c8-d32890743b1d,John,Sims,35,West Megan,Nevada ,15,481.89,-1.7,2024-03-07,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Ethan,Ross,53,North Steven,Alabama,23,132.84,-4.54,2024-03-07,True
+3cc7701e-ffc3-4e2c-9e77-0ee34ee3c9f9,Ronald,Torres,57,Port Susanhaven,Maine ,11,192.29,-7.4,2024-03-07,True
+6b37c738-c37b-4f91-b45c-11ffe615c06a,Charles,Johnston,68,Lake Kelly,New York ,14,294.24,-4.0,2024-03-07,False
+5336273f-174a-4764-9772-9e6b193387b0,Jose,Snow,77,West Matthewberg,Michigan ,4,365.8,0.59,2024-03-07,True
+8d9b2dbf-8f71-49c8-9f5d-98a2b42cd442,Manuel,Ramirez,75,South Davidburgh,Montana,23,125.5,6.63,2024-03-07,False
+c06f3ef3-c1ed-4f56-9b6d-f350c98ee9d5,Mary,Chandler,61,East Philipview,New York,13,403.74,-5.11,2024-03-07,False
+d221c709-f2e2-4bfc-b2b3-e3ef0c1b9e63,Peter,Ramirez,46,West Jessemouth,TENNESSEE,10,198.47,4.3,2024-03-07,True
+04ae15c9-d809-4b69-b656-ffd11696d8a2,Joseph,Nguyen,61,North Daniel,Connecticut,13,55.16,-1.86,2024-03-07,False
+fba358c9-9883-4151-8d97-3b36bafefbcc,Brian,Gutierrez,28,South Christopherbury,Louisiana,20,78.6,-7.91,2024-03-07,False
+5d6ea5c6-97e9-4c2f-ae2b-cd3bdf595471,Justin,Allen,45,Williestad,Arkansas,9,233.97,7.94,2024-03-07,False
+5e4b05a8-f9a2-44cf-8451-c8f8086a0927,Susan,Stark,33,West Gregory,New Hampshire,14,72.12,-9.29,2024-03-07,True
+9fa92b94-e290-4216-abca-9be9659a8201,Sydney,York,24,Stewartfort,Idaho ,16,401.41,7.75,2024-03-07,True
+5298de89-d130-4b19-9189-8fcc423b4a56,Karen,Wood,19,Hansontown,Idaho ,18,275.54,7.45,2024-03-07,True
+b96f8e24-3659-46cd-8e3a-07680829ffb0,Peter,Wallace,40,Lauramouth,Rhode Island,10,485.28,3.5,2024-03-07,True
+5765fb3e-498f-44a5-882d-c7642333dce0,Jessica,Edwards,44,Amandaport,ALABAMA ,23,270.72,-2.9,2024-03-07,False
+4f393ecf-b9a6-4506-9ea4-f6424ef87139,Martin,Gutierrez,19,Nashland,Nebraska,7,374.64,-1.51,2024-03-07,True
+c5d39ba0-4f46-4635-a619-a04277c6ec33,Rhonda,Williams,38,Danielberg,Alaska,6,205.43,-4.32,2024-03-07,False
+2ea9211e-8e3c-4b7e-82ed-bd3bd72b1539,Nicholas,Flynn,69,Edwardsshire,North Carolina ,1,83.37,0.31,2024-03-07,False
+553d6c5c-261e-4e96-aad0-a7885f8fae53,Donald,Strickland,76,Stevenshire,Maine ,4,247.74,8.32,2024-03-07,False
+9da998ea-bab6-4e7d-8823-f00549a03cbd,Brenda,Robinson,40,Rubenhaven,Minnesota ,8,341.77,-5.13,2024-03-07,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Eric,Conway,69,New Amyland,WYOMING,4,487.0,-8.6,2024-03-07,False
+fb150e9a-fa4d-4706-8fac-55436d6cc8ab,Carla,Larson,66,East Cameron,Indiana,14,312.74,2.78,2024-03-07,False
+77af7ae5-9099-48ec-827f-b90687f27c3a,Francisco,Schmidt,77,Davischester,Arkansas,2,206.0,-3.46,2024-03-07,False
+4190dfc4-455e-4ae3-8e57-ce145b6c5c5e,John,Little,56,Kimberlytown,Massachusetts,3,419.59,-4.66,2024-03-07,True
+eb550eaa-423e-4226-8c23-b52cbd571ddc,David,Alvarado,43,Lake Jacobstad,Texas,14,225.52,-9.8,2024-03-08,False
+b02b6ee7-526a-4b57-9860-8ddbe71d7334,Kristen,Richards,46,Williamsburgh,Rhode Island,22,37.3,4.46,2024-03-08,True
+a8aace09-178e-4b61-bcea-814d1ac82c36,Deanna,Collins,71,South Deborah,Connecticut ,4,104.61,4.83,2024-03-08,True
+388e830d-ed5a-4f24-9912-1f0b5ff8e917,Amy,Johnson,23,East Josephfort,Connecticut,14,311.14,6.75,2024-03-08,False
+3fb731b1-41f0-46bb-b1c8-3f345048561c,Kimberly,Martin,23,New Devinport,West Virginia,19,290.46,1.24,2024-03-08,True
+e56d8f37-df0f-47ac-890e-5b6319afc668,John,Bell,22,North Lisa,Massachusetts,23,9.63,9.66,2024-03-08,True
+f292ab59-0616-4af4-85ba-f527d1120e17,Kimberly,Smith,58,East Loriport,Oklahoma,10,101.92,-9.11,2024-03-08,False
+4d42093f-d540-47b5-9b88-cf2a1584d48b,Heather,Miller,64,Patriciashire,Vermont,4,442.3,8.36,2024-03-08,False
+93e0d6b2-06ef-43f3-9159-079719a54f15,Tyler,Blair,66,Emmaberg,Idaho,18,1.34,3.76,2024-03-08,True
+da048d93-04ed-40c0-845a-04439d6d6b29,Sarah,Allen,35,Paynestad,Montana,21,263.95,-4.15,2024-03-08,True
+e0ba3a7a-6aae-4a7f-9520-a49cc519b93f,Joshua,Ward,51,Rachelchester,Nebraska,5,371.67,-4.11,2024-03-08,False
+feae2ed9-da5e-4215-a863-ee34549b2375,Tami,Kennedy,62,Littlechester,Maine,21,60.23,8.48,2024-03-08,False
+f811fb46-400e-4499-b8ba-d81a4bb91849,Christina,Baker,77,Josephview,New Hampshire,18,302.62,5.24,2024-03-08,True
+7d64b807-322c-42e7-8c57-777e6b38bc0b,Andrew,Murray,38,Garciatown,New Jersey,10,66.5,-2.72,2024-03-08,False
+dc22ac59-bfd1-4509-9ac7-ab836a857100,Bradley,Lee,20,Robinmouth,Delaware,3,419.89,1.3,2024-03-08,False
+65c19380-6583-4990-9d7e-e861834a32e4,Kenneth,Olson,74,Edwardsview,Washington,2,383.94,6.17,2024-03-08,True
+0e09610b-7cba-4cf0-8406-237ab61bc697,Jason,Taylor,78,Sarahborough,Virginia,11,296.38,-5.85,2024-03-08,False
+a078b7ba-1c06-4884-834d-8e9937a74821,Alicia,Cruz,30,South Stephenland,Delaware ,7,336.7,2.7,2024-03-08,False
+c724743a-6d0f-4ae2-874a-7f5b00fb18c2,Holly,Martinez,74,Jonesland,Maryland,0,236.45,-3.68,2024-03-08,True
+07d77e06-15c9-4b97-9336-6d774405bfeb,Johnathan,Morris,20,West Angelica,Georgia,21,38.89,7.9,2024-03-08,False
+7583df09-4043-433c-a862-0af75df1c329,Scott,Sharp,67,Lisaport,Washington,7,413.59,-8.6,2024-03-08,False
+fed39b16-15b7-464a-ba32-996af8e787a5,Sarah,Miles,76,South Moniqueton,NORTH DAKOTA,3,212.9,3.97,2024-03-08,True
+1420e361-b4e8-4aca-bc26-6db5f967d6e8,Elizabeth,Wise,80,Mistymouth,Missouri,19,1.83,6.84,2024-03-08,True
+a12e083f-7d9b-4026-b0b1-97098bde744f,Michael,Stone,78,East Alfredport,California,20,302.57,-9.22,2024-03-08,True
+c86a5bc8-0449-4f0d-abb1-259514f297d7,Taylor,Robles,30,Martinezhaven,Colorado,12,348.3,-6.9,2024-03-08,True
+0f7784d2-7104-4e70-9cf1-a1b8d755ebb2,Andrew,Bridges,45,Tylerview,WASHINGTON,19,4.42,7.59,2024-03-08,False
+e6f57af3-02bf-434c-aafe-6eb74a293a0e,Matthew,Smith,53,West Derrickport,Maryland,5,447.7,-2.95,2024-03-08,False
+fcbc7b27-d20c-4329-ab06-7df4349eff9f,Jessica,Crawford,32,East Steven,SOUTH CAROLINA,19,215.77,5.52,2024-03-08,True
+1c1d2331-6382-4ac6-ab5b-2f67e132bdb8,Donald,Flowers,56,East Michelle,California,23,244.43,-8.44,2024-03-08,True
+baf39888-9249-410f-9cfa-16212ca541e6,Alex,Ruiz,43,Lake Nicolefort,New York,10,62.9,-2.82,2024-03-08,True
+3a152b73-51c6-46f6-8456-aec7932d0e4a,Justin,Campbell,76,Coletown,Michigan,18,356.95,9.48,2024-03-08,False
+77ffbbc3-902f-4beb-a4a2-5697d4686894,Amanda,English,69,Port Melissaton,North Dakota ,2,258.95,-4.77,2024-03-08,False
+13b9c542-7d37-4f10-8a85-8b18ce900817,Frances,Murphy,31,Lewismouth,Nevada,5,113.55,-2.2,2024-03-09,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Mitchell,Dunn,55,Jaimefort,Alaska,2,74.68,-1.63,2024-03-09,True
+4f3a6543-4649-4465-9714-637ab37b804e,Barbara,Zhang,79,Sanchezchester,Minnesota ,20,339.33,1.86,2024-03-09,False
+a368c5c2-de50-4ed1-a0ab-1d8d46d33c3e,Vincent,Moore,37,New Robert,North Dakota ,5,377.32,-1.53,2024-03-09,True
+2d087189-8300-4f91-b383-cff9f69e2340,Lindsay,Price,79,Dixonview,Vermont,18,240.32,0.87,2024-03-09,True
+9b906293-f017-4698-99dd-fdb0f9ff9f3f,Thomas,Pennington,45,Keithfurt,Connecticut,15,217.3,-6.47,2024-03-09,False
+ebe6218b-1b3a-48d1-8d09-31f5f0470512,Jonathan,Green,61,Townsendland,Florida,20,5.57,9.42,2024-03-09,True
+932538bc-4a2a-4428-a965-fab340f293af,Kathleen,Zamora,51,Lake Monica,North Carolina,15,140.3,9.64,2024-03-09,True
+a85e2f58-b932-4bfc-ae6c-154798b1c608,Yvette,Black,61,Lake Richardmouth,Minnesota,21,162.88,-9.73,2024-03-09,True
+d0906637-0757-4035-a16d-7d23e60593eb,Elizabeth,Bell,76,New Nicholasfurt,Maryland,23,280.38,0.45,2024-03-09,False
+b95f22d3-3138-4973-b253-f1e2dded0457,Michael,Woods,75,North Bradleyburgh,Missouri,0,115.42,7.66,2024-03-09,True
+a02c436a-14ff-46d2-8648-ca8cf6d68527,Amy,Barker,33,Torresberg,CALIFORNIA,5,207.78,-4.18,2024-03-09,True
+39e5abd4-e682-4a70-80c4-286c6b4ed597,Harold,Jones,63,West Veronicaberg,New Hampshire ,19,121.46,0.13,2024-03-09,True
+5aac9e01-7107-44e8-90db-7a6775468b2f,Kenneth,Pacheco,19,East Bobberg,New Hampshire,8,219.19,-2.83,2024-03-09,False
+040cb1bb-2cb8-4845-8eed-17d563263684,Thomas,Holder,27,Tinahaven,Idaho,12,386.87,-2.24,2024-03-09,False
+22e1fb22-477e-416c-befd-1da144192b6e,Melinda,Atkinson,64,West Heatherchester,South Dakota,19,259.13,-4.9,2024-03-09,True
+456b67ff-9154-4432-9a22-169c37920aa3,Devin,Li,69,New Hannahton,Vermont,6,82.61,8.67,2024-03-09,False
+4f68ef20-0c39-4bb0-90b8-7ab10112af8f,Michael,Martin,61,Martinezberg,Arizona ,12,471.57,-6.9,2024-03-09,False
+eac701f5-68eb-4506-8961-d46429494a8d,Vanessa,Hodge,47,Marshallbury,Nebraska ,1,114.1,-8.9,2024-03-09,True
+dea785d7-d362-400e-933c-44cb9c5a589d,Henry,Conrad,72,Lisaside,Kansas ,0,246.9,-1.7,2024-03-09,False
+04a2eeb9-4977-43a0-b03f-dd5e5942531a,Grace,Gay,40,South Jonathan,Montana,20,151.7,2.18,2024-03-09,True
+3971a983-8c86-4ec8-9ead-e6f1ebf3599e,Angelica,Bell,76,New Nathan,Colorado ,18,228.8,1.61,2024-03-09,True
+01705c57-ea29-4a91-832a-bfac095dc6bc,Jennifer,Robles,53,Lake John,Florida,12,440.8,-2.47,2024-03-09,True
+fccfe7b6-75f1-4522-8465-54919ce18143,Dawn,Bennett,19,Port Feliciaburgh,Georgia,23,303.18,-6.66,2024-03-09,False
+b6f351a7-f7d8-4659-954d-7b6eb7e59163,Joshua,Larson,50,West Patriciafurt,OKLAHOMA ,16,470.33,8.89,2024-03-09,False
+485e306d-e15b-4564-900c-552697980f95,Danielle,Howard,80,Matthewton,Minnesota,0,460.29,-3.37,2024-03-09,False
+bc436191-decf-4701-81d8-8ad9634badd7,Jonathan,Henson,52,Watsonmouth,Connecticut,17,8.8,-5.63,2024-03-09,False
+c8e64747-1fa0-43ff-8455-5eaf92307d0a,Nathan,Jones,68,Powersshire,Virginia,22,327.16,8.89,2024-03-10,False
+0279348a-45d4-49c6-947c-f6272ee009b2,Destiny,Davis,57,East Juliachester,New Hampshire,12,136.12,-5.39,2024-03-10,False
+ce30cd6a-e7e3-486d-b13b-f4e4d627d253,Wendy,Turner,74,Bakerbury,North Carolina ,11,313.92,6.43,2024-03-10,False
+0d8968fd-0c20-496e-b5ff-6748bba68cd1,Amy,Waters,53,Elizabethfurt,Michigan ,3,139.72,-3.45,2024-03-10,True
+8b426eb6-cb11-4aed-b5e6-aa618d854033,Vernon,Wallace,62,East Alexandra,Mississippi ,6,70.55,8.85,2024-03-10,True
+68acdcfe-f4b8-4249-a139-7957382079d0,Joshua,Garcia,35,East Joseph,Michigan,7,94.35,-2.38,2024-03-10,True
+32cd4d75-33c8-4f4f-9634-5cacc8e49216,Sharon,Martin,75,Ashleyhaven,Montana ,-5,5.24,8.67,2024-03-10,True
+fe4e2451-21bd-4e0c-a7b0-54316fc276ed,Brooke,Crawford,55,West Kevinchester,Kansas,22,366.52,8.91,2024-03-10,False
+6f84a967-fd90-49e8-9e94-9bba84ac7e0c,Brett,King,21,North Teresastad,Nevada,1,18.89,7.5,2024-03-10,True
+f167ee1b-40fc-4880-baf7-a7247916a099,Brian,Beck,55,Pachecochester,Maryland,22,277.73,6.27,2024-03-10,True
+fbae89be-2012-4927-86b4-3e1fa9ff4d30,April,Leon,28,South Jamesshire,Arizona ,21,306.42,-2.61,2024-03-10,True
+8733ae5c-f165-46bf-bee0-e607b0049c54,Edward,Orozco,40,Draketown,Michigan,15,419.21,5.45,2024-03-10,True
+4f412987-6a9e-457c-84e8-36a5f4909be3,Aaron,Harris,30,Lake Brandon,New York,12,157.22,8.5,0.0,True
+39319314-c5b5-4d64-ba95-00052af4d033,April,Rodriguez,31,Hollyport,Mississippi,2,407.0,-7.9,2024-03-10,True
+ea1b657b-b9a5-4aba-b143-7fd993453237,Dawn,Cortez,34,Williamsside,Wyoming ,19,308.29,-1.11,2024-03-10,True
+65532bb4-732e-4a0c-a3e3-ae058e584d0f,Anthony,Li,38,Adamfort,Iowa,15,70.99,-6.14,0.0,True
+f905d8c0-2984-4c2e-a00b-997d1be6ce5a,Russell,Howell,70,Port Thomasstad,Connecticut,23,338.22,1.5,2024-03-10,False
+10422d74-77c1-4f30-90d9-149b2a64b522,Vickie,Wang,38,West Christopher,Arizona,9,81.7,7.89,2024-03-10,False
+a08f95b7-33b4-41c6-adde-be6bb93f53a7,Alicia,Sparks,77,New Geraldberg,California,-1,99.1,-8.99,2024-03-10,False
+e5a0289e-dd81-4201-8b76-5e40a0b38942,George,Dennis,57,North Donnafort,DELAWARE,10,211.52,-1.11,2024-03-10,True
+4f4893b0-4ec4-4a59-b087-bda0733994af,Frank,Russell,24,East Benjaminborough,Oregon,16,248.42,9.67,2024-03-10,True
+30a03032-bb14-4b3a-b4c3-42b0dcbd0915,Vincent,Henson,72,Phillipsport,North Carolina,4,347.63,8.87,2024-03-10,True
+103b135a-eeed-4469-82ce-1faae261ba34,John,Robinson,45,New Philipville,Missouri ,21,101.62,5.94,2024-03-10,True
+0000b541-82af-4202-b075-9afe9f171699,Jesse,Castillo,43,New Stephanie,Washington,15,111.85,-1.39,2024-03-10,True
+88078898-cf67-440b-87a6-c329b7a0793b,Pamela,Coleman,63,Port Valeriefort,Alaska ,5,468.25,3.93,2024-03-10,True
+8c83122d-4f42-41ed-977a-4c504283a8c8,Jacqueline,Larson,61,Alisonview,Wisconsin,11,401.22,6.39,2024-03-10,True
+74a9d7cd-2ae9-4205-8f1e-546952d8bc17,David,Dawson,54,Humphreybury,Maine,9,460.42,5.93,2024-03-10,True
+94a059f0-7789-493c-9ba6-4c13b9715239,Tyler,Cuevas,21,Larsonstad,West Virginia,22,325.5,7.83,2024-03-10,False
+7b889661-d49e-406d-8d40-a4e513d668da,Matthew,Eaton,45,New Ryanberg,Missouri,14,256.86,2.99,2024-03-10,True
+c17b9f84-5dde-4ea4-98b7-d8f0cb36f1e3,Dakota,Smith,18,Lake Markbury,Iowa,22,362.95,-6.58,2024-03-10,True
+1befc37c-16a1-4221-8e8e-2efd73439729,Todd,Day,32,North Johnmouth,Nevada,1,332.34,-4.45,2024-03-10,True
+3d91853e-01d2-41cd-ac34-31c50fc812e0,Diana,Porter,20,Jessefurt,Wisconsin ,10,443.75,0.86,2024-03-10,True
+25c5f666-9cb9-46a4-95b8-e220b64f3a0e,Michael,Rios,40,Rebeccaport,Michigan,16,375.57,-8.52,2024-03-10,False
+6b8c0234-b813-4a41-9537-174a9d0bae6d,Samuel,Wolf,49,New Jason,Wisconsin,18,116.84,-1.16,2024-03-10,True
+ec677a12-70ff-48a8-b9b3-9b3bff7416d0,Joseph,King,27,Perrymouth,Maryland,16,204.3,-9.7,2024-03-10,False
+c53cdec5-d0ef-4859-a3e8-cabeb58a822c,Dawn,Garcia,69,Andrewville,Utah,12,134.15,-2.83,2024-03-10,False
+2302a1db-1655-4aa5-98de-50dd20d43c10,Michael,Fields,68,Bryantown,Georgia ,18,312.93,5.86,2024-03-10,False
+b4917e5d-6309-4cf7-b961-3e338f23b31c,Elizabeth,Norris,45,North Williamtown,Oklahoma,17,160.9,-7.95,2024-03-10,False
+0071095b-a524-4eac-981e-5326a1775079,Antonio,Anderson,31,Woodfort,Georgia,10,261.24,4.7,2024-03-10,False
+ecf4e3c1-1bde-47f7-a0be-19974e8da04c,Patrick,Delacruz,65,Lake Colinshire,Maine ,9,148.22,-7.47,2024-03-11,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Rebecca,Boyer,32,East Joannborough,Minnesota,14,137.18,-6.82,2024-03-11,False
+f5553ab8-be76-4168-9602-a4b495fece31,Timothy,Brooks,45,Lake Carolyn,Washington,0,76.33,-8.86,2024-03-11,True
+d3adfee1-efe4-4348-94ce-9f882ae6d003,Alexis,Caldwell,72,Barbarahaven,Texas,8,201.38,9.39,2024-03-11,False
+ff8dec7d-7511-48c6-8d6b-a6598cf7cd15,Kristina,Anderson,73,New Brittanyberg,North Carolina,4,1.3,9.78,0.0,True
+111fc68f-1f42-4686-b257-abf88ceef366,Nicole,Tucker,52,East Ashley,Minnesota,4,231.99,-8.86,2024-03-11,True
+ae18e19c-aaf2-4b14-81c9-dad02a74e456,Jaime,Combs,45,North Monica,Arkansas,19,222.42,9.44,2024-03-11,False
+5d989135-5b2d-47ce-b9af-c060c6308f1d,Eric,Arias,33,Danielport,VIRGINIA,11,497.13,-2.47,2024-03-11,True
+c7257269-8db8-4b0a-8128-43b87c55e458,Jennifer,Davis,64,Port David,Idaho ,10,18.59,8.93,2024-03-11,False
+73f6d001-089c-4a41-b15f-ddb4e1889de9,James,Jefferson,40,Suzanneside,Wisconsin,22,163.41,2.81,2024-03-11,True
+9161dfbe-4c42-4369-b85a-671638790045,Brian,Kelley,61,New Jennifermouth,Massachusetts ,8,493.23,7.6,2024-03-11,True
+5941a3b8-75c2-4fb7-a413-c22a4e91d12b,James,Crosby,64,East Alexandriaburgh,North Carolina,0,384.83,1.55,2024-03-11,True
+9dc97354-14ed-4364-9169-66ae49d6db31,Amber,Santana,72,Alejandraborough,Arkansas ,3,259.85,-5.5,2024-03-11,False
+52160a44-d878-4688-be9f-1a8d485dcdac,Mason,Poole,43,New Francisco,Michigan ,21,262.3,-4.98,2024-03-11,False
+af1f4e27-50ba-4d50-bdc2-dbb9994f0ae4,Tony,Peters,71,South Lisa,Alabama,20,118.26,-9.13,2024-03-11,False
+db4fb496-101a-4582-a799-f972dcbe9bbd,Tyler,Pruitt,19,Lake Nicholasbury,INDIANA ,5,272.77,9.52,2024-03-11,False
+e6f01473-b04e-4784-8490-ab04d2d7de37,Andrew,Shaw,44,Melaniemouth,Illinois,-20,55.75,3.85,2024-03-11,False
+ed146794-a3a4-40f2-8486-c75ee91f2322,Kimberly,Pearson,59,East Lisa,Maine,11,6.72,-8.81,2024-03-11,False
+278494a5-29ab-4030-b838-21012bad0a68,Karen,Conrad,61,Perezhaven,Connecticut ,12,228.35,6.17,2024-03-11,True
+d6979dca-00a6-4b1b-bd6e-0878041f74e0,Jennifer,Jones,67,Velasquezberg,North Carolina ,7,347.21,3.36,2024-03-11,True
+9e91bdc5-9525-4892-abe5-595927ef8b33,Chelsea,Lee,38,North Alyssaton,Illinois,21,280.25,-3.73,2024-03-11,False
+9b39cdec-4cc9-4176-ac4b-f10a65b851f4,Deanna,Young,75,West Rachel,New York,13,364.37,-4.99,2024-03-11,False
+f785537b-4b19-42ae-9ed6-8e4a7af9b293,Felicia,Rodriguez,43,Goldenborough,South Carolina,6,204.33,-5.4,2024-03-11,True
+29304ea1-84e8-43d3-b8f2-819bee3d99c6,Eric,Davis,29,North Hollyhaven,Arizona,4,160.82,2.31,2024-03-11,True
+ea71b9a1-bc7b-4a27-bd46-a0568d5382c7,Stephanie,Huffman,70,Port Andrew,Utah,22,459.76,-2.88,2024-03-11,False
+fcd6fd4f-0d43-42b4-9ae6-5c86539dd776,Matthew,Wilson,31,New Deborahside,Washington,8,10.59,-7.4,2024-03-11,True
+ad4cd8ca-d9ca-4b62-8d43-881afeef8cad,James,Sims,60,Martinville,Iowa,5,444.28,-8.92,2024-03-11,False
+127898de-f09e-480a-9dc3-d611c3bb4c2f,Madeline,Barrett,80,Greenbury,Wyoming,9,465.96,0.1,2024-03-11,True
+c76385a9-7248-4f70-8b41-3d5292558a94,Alexandria,Ramsey,76,Port Jonathan,Maryland,2,218.16,8.63,2024-03-11,False
+5d2e370d-b2e5-4136-9914-f68f41093762,Sara,Coleman,53,Brittneystad,Kentucky ,2,167.53,-1.51,2024-03-11,True
+b2bcfccf-776b-4fbb-834c-8436fd59fa54,Brian,Newton,47,Jacksonhaven,CONNECTICUT,7,282.47,-3.64,2024-03-11,True
+77a99f93-b2d6-48ef-ac60-a1f26205d2ee,Melissa,Alvarez,47,Spencebury,Oklahoma,18,140.42,4.69,0.0,True
+f4b10da0-9894-49db-982d-ab751234f5b1,Jennifer,White,29,West Barbara,Idaho,13,252.63,-4.63,2024-03-11,False
+e9351287-4684-404e-b076-60667311432a,Derek,Romero,50,Lake James,Illinois,0,487.82,2.51,2024-03-11,True
+5e42ced3-1a55-4718-a31e-76fdd8d98a19,Amanda,Lin,22,South Lisa,New Jersey,12,200.63,-7.85,2024-03-11,True
+e1d72500-0694-4550-8c95-046cd262d2a7,Mark,Edwards,19,Kennethton,New Jersey,23,460.72,3.78,2024-03-11,True
+0ccde04f-c421-44d7-8156-129ced892d49,Barbara,Wilson,47,Lake Donnafurt,Delaware ,17,34.6,-1.69,2024-03-11,False
+e2c128ef-0aa4-4974-b738-3532ee566a11,Willie,Anderson,38,West Robertchester,Michigan,5,457.28,-7.12,2024-03-11,False
+2517b5ea-8709-4b7b-affe-6ca6c35d06e6,Lori,May,41,South Jose,Idaho,6,41.6,7.53,2024-03-11,False
+83baaf93-10e0-497e-b99f-144a58305186,Kristin,Oliver,79,Shanefort,Idaho,15,103.79,-6.23,2024-03-11,True
+583898e8-9de9-4df0-9686-d7df8b3d6dca,Eric,Larson,64,Port Amy,Massachusetts,14,425.2,0.47,2024-03-11,False
+e8338091-e615-4f19-aa26-9f0f4506698b,Kyle,Thomas,49,Port Josephmouth,Arkansas,4,49.64,-3.62,2024-03-11,True
+b7b797c2-da68-479e-8eb1-05cded7af163,Lee,Crosby,43,North Jennifer,Arkansas,2,464.22,-5.36,2024-03-11,True
+dc1343c9-c3b3-40fe-becc-d69f61868b41,Stephen,Wyatt,69,Ruthside,Nevada ,0,363.27,0.55,2024-03-11,True
+b95c615c-712c-4ed6-8b01-1c2a63657087,Jennifer,Douglas,69,Stanleyberg,Alaska,0,422.15,6.89,2024-03-11,True
+92107921-49e1-4497-8da8-10d3d52bacad,Tony,Ali,53,Dawnfurt,WYOMING,12,45.59,9.88,2024-03-11,True
+ceaf8027-f61e-4a95-a44d-4b1626186a6c,Candice,Mayo,44,Reneeberg,Nebraska,21,1.12,-2.24,2024-03-12,True
+c3c801c1-5b99-4e8f-969a-6f3729a45e96,Jennifer,Nichols,61,Murphyhaven,Connecticut,5,476.1,6.69,2024-03-12,True
+de253f48-1f45-47b4-bc01-bfb369cc2316,Kelly,Adams,76,Michaelland,RHODE ISLAND,5,19.74,-7.82,2024-03-12,False
+a2e455f4-ee72-4d69-88b6-36ec15d96248,Carlos,Henson,38,North Taylor,INDIANA,15,426.7,-1.2,2024-03-12,True
+1579e05c-4085-41f0-8936-7232280b11ad,Angela,Bowers,24,Michaelborough,Indiana,17,385.66,3.36,2024-03-12,False
+7420b9da-fab0-41cc-9556-a62a96566b79,Mary,Potter,55,West Curtisfort,Iowa ,17,245.69,-7.35,2024-03-12,False
+d343f2fb-3d1a-4620-a3ac-3bb34349d33d,Yvonne,Garner,39,Carlyville,Michigan ,6,307.66,-9.1,2024-03-12,True
+a70efc2b-d1f4-431f-9f2f-68fb905a818e,Julie,Taylor,77,East Kyle,Connecticut,9,482.59,-6.24,2024-03-12,True
+2b833547-13dc-4fab-a5b6-031fa73ebf0f,Brooke,Heath,18,Port Charles,Maine,11,259.89,5.2,2024-03-12,True
+44ee3e99-fcde-4f93-9fd3-83e7cb4e4cfc,Kim,Smith,75,Casemouth,Oregon ,20,66.99,-6.83,2024-03-12,True
+c40b5f4a-0510-4db2-8178-d133f7f2b08a,Maria,Rowe,42,Edwardsmouth,Indiana,0,394.59,1.13,2024-03-12,True
+4c893db6-d322-4c74-b250-824a7d510f04,Natalie,Daniels,77,Huffmanfort,Georgia,4,71.33,6.68,2024-03-12,False
+9fc5591c-37b5-4039-88ae-9d22b86057cf,Justin,Yates,56,Foleyshire,Alaska,9,249.34,-7.46,2024-03-12,True
+e9ebe36b-83d2-41cf-88a5-b9753ef82c47,Ralph,Thompson,33,Port Barbarachester,Washington,16,321.4,0.78,2024-03-12,False
+811f32dc-f935-44f9-8a38-59c799a758c8,Melissa,Wilcox,38,Priceburgh,LOUISIANA,9,19.6,3.34,2024-03-12,True
+a07ccf4a-99b8-4a6d-a998-382d11141b7a,Michael,Coleman,38,Port Jessicafort,California ,21,396.31,8.38,2024-03-12,False
+7b7002c7-db63-40b0-ae38-8ae993ac20b7,Devin,Morgan,76,Sarahstad,Illinois ,18,276.24,-8.59,2024-03-12,False
+03daa96e-076c-4a9f-80c8-55d60a566ea6,Matthew,Montoya,66,East Christinaborough,Nevada,19,177.86,6.15,2024-03-12,False
+d751e824-a2d4-4112-b3b3-5606548d9850,Carrie,Warner,38,Port Johnton,Tennessee,13,243.81,-5.22,2024-03-12,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Abigail,Davis,20,Davisberg,Indiana,19,176.49,9.37,2024-03-12,False
+1c3e7d24-a6d6-438b-88cf-e18b0bf7d869,Jerry,Reed,71,Nancyberg,Michigan,21,359.81,3.16,2024-03-12,False
+7b866117-af09-4430-b7f2-397bff23f462,Scott,Harrington,62,Alexisview,Mississippi ,4,163.78,3.44,2024-03-12,False
+e0d45581-3fa7-4326-86c4-cbdb40f3e319,Maria,Alexander,19,Port Angelaland,Washington,12,94.86,8.85,2024-03-12,True
+9f09197e-0372-49e8-940f-ddaa41e53f50,Brandy,Howell,55,Willieview,Hawaii ,15,399.82,-6.36,2024-03-12,False
+b4bbada4-be6f-4e01-9d61-821e11b19d03,Richard,Sims,61,Stephensmouth,Texas,20,279.88,0.9,2024-03-12,False
+216921ff-1c7c-4164-8bbb-77cb61bbb3a0,Eric,Barnett,62,Adamsborough,New Jersey,7,380.53,-6.4,2024-03-12,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Matthew,Dudley,44,Smithville,Mississippi,3,94.57,5.82,2024-03-12,True
+33d84b73-c357-403c-b3bd-cb343f9994c8,William,Nash,57,Dianaside,Utah,11,382.22,6.72,2024-03-12,False
+49c5487b-8a79-4830-a140-1af02e5bbb48,Deborah,Gonzalez,79,Jonathonburgh,Georgia,10,259.6,-8.65,2024-03-12,True
+2a922369-2380-4156-b78a-082a0cb47e8d,John,Hines,33,Port Jenniferland,New Jersey,11,19.29,1.66,2024-03-12,True
+6f763bf7-9e76-4afd-a9e4-2d8ba5959a9a,Janice,Jones,54,West Nicole,Colorado,14,265.27,-9.22,2024-03-12,True
+67897448-e6e4-4f7b-9b3e-b26493085f02,Paul,Clark,75,South Robertfort,Montana,14,149.65,5.41,2024-03-12,True
+ea931b60-7066-4d77-867e-e900a7c8b084,Thomas,Scott,52,Weberbury,New Jersey,10,165.42,7.54,2024-03-12,False
+b4a2927f-df4f-4a46-957d-b8f0135908fa,John,Martinez,28,West Alexandraborough,Rhode Island ,5,412.96,-3.63,2024-03-12,False
+84e44d40-ab29-4401-8212-e2e3b1a53aaa,Thomas,Foster,36,Carmenmouth,North Dakota,10,233.35,9.38,2024-03-12,True
+dbd131e3-0cfd-443b-a9b7-c4470bf8609e,Jesse,Cooper,39,Port Amanda,Colorado,16,203.6,4.56,2024-03-12,True
+b891cf1c-bc2d-4d84-9dd7-634a63a99c0d,Sarah,Stevens,48,Michellefort,Arkansas,11,487.7,-1.92,2024-03-12,False
+8e45a01d-c7c9-498f-a6c2-b18a71841acc,Donald,Mitchell,80,Transide,North Carolina,-8,453.8,-7.7,2024-03-12,False
+c69e908b-1c53-48ac-b4ea-25838fa5a1c2,Terri,Ortiz,56,Kathleenstad,Arkansas,21,480.66,-8.62,2024-03-12,False
+4aaf3eaf-47a7-4898-921e-be4fff3f4375,Gabrielle,Beasley,51,Lake Carltown,California ,7,148.85,-1.68,2024-03-13,False
+cb469e6c-e63b-4067-a0f5-fe6625d9a6c5,Anthony,Jimenez,40,East Lisaborough,California,18,246.94,2.4,2024-03-13,True
+7fdb6366-5c7f-4e04-8645-63657e9157b6,Kathy,Sharp,53,East Jeremy,Indiana,2,158.57,-4.32,2024-03-13,True
+c9c7dbb5-e902-4dd3-9b1f-39dc731bdee9,Jared,Stephens,78,Davisstad,Texas,22,354.79,2.25,2024-03-13,False
+f15f4eab-c535-4508-8153-9c69b258498e,Eric,Ochoa,40,Marystad,Minnesota,0,119.96,-1.5,2024-03-13,False
+cc551719-1d53-460a-9176-d455ad85b5ab,Robert,Stevenson,34,Kaylahaven,Ohio,19,452.36,-3.87,2024-03-13,False
+3c96c50c-b0d9-41fd-a496-e012316056d1,Anita,Andrews,36,South Nathaniel,Alabama ,16,125.99,-3.28,2024-03-13,True
+322dd9b5-852d-402d-adb7-d30d99f24df0,Aaron,Hood,77,West Matthewmouth,New Hampshire,21,10.82,-2.14,2024-03-13,True
+ec95a06b-54b3-4cc5-9528-287acea19e34,Michael,Patterson,54,Kristenborough,Maryland,0,356.88,4.51,2024-03-13,True
+d48887f1-22d5-4a33-81cd-d15c867d0530,Jessica,Johnson,53,Curtishaven,Oregon,23,25.84,8.11,2024-03-13,False
+98323ead-ff9f-45ac-911a-498c4be1f804,April,Smith,25,Valenciaport,Iowa ,4,38.87,-8.34,2024-03-13,False
+4411b4cf-c3c2-4664-9810-b870d703509d,Diana,Jones,53,West Sherri,Hawaii,0,206.59,2.92,2024-03-13,True
+f189b684-0ef9-411c-8cd1-4cdbaf3c0627,Henry,Holland,38,Port Coryville,New Hampshire ,10,469.3,9.85,2024-03-13,True
+dff8adac-e90c-4c1a-8523-1221f8caf818,Linda,Nunez,25,South Theresamouth,Mississippi,7,193.36,0.81,2024-03-13,True
+20979553-a476-4c37-b510-7067fc552478,Patrick,Goodwin,67,Jonesborough,NEW JERSEY,5,132.43,3.63,2024-03-13,True
+b0dd3a54-b0b9-4c13-bb6d-6f1358734c22,Melissa,Mathis,34,West Samanthastad,Washington,2,212.73,-1.28,2024-03-13,False
+513d3e34-3837-49f9-8a44-536b1d4c1a1d,Ryan,Webster,18,Bentonton,Oregon,17,337.6,9.33,2024-03-13,True
+6ce7866a-7bd5-4cfe-9636-e5968fe72d52,Luis,Walsh,18,Stewartbury,Wyoming,10,324.54,-5.65,2024-03-13,False
+27182e6d-d495-4be8-acde-1c0bb5a29b1a,John,Walton,70,Port Kathrynburgh,Kentucky ,15,434.64,4.52,2024-03-13,False
+c63c45d1-a225-4c74-8490-cddd2535c8c0,Erica,Allen,31,Paulachester,West Virginia ,3,320.12,-6.45,2024-03-13,True
+847ce21c-ce8d-4182-8224-9c20b036befb,John,Bond,65,Port Sarahberg,Kentucky,3,116.28,-1.59,2024-03-13,True
+fa2c21ed-8308-485a-b2c7-14d13f2842b8,Seth,Hensley,60,Port Adamtown,Nevada,0,254.35,-2.73,2024-03-13,False
+39e995e7-c9e0-4253-8c97-e995bcec4809,John,Kim,26,South Matthew,Michigan,17,265.77,5.64,2024-03-13,True
+8afd370c-a3cc-4e83-8304-f2c28a59b10f,Paula,King,53,East Jenniferland,Oklahoma,21,202.67,-2.44,2024-03-13,False
+5343b16b-743f-4f61-95a6-1f3da85a9bbd,Chad,Lyons,26,Timothyfort,NEW MEXICO,10,377.34,2.68,2024-03-13,False
+993f48db-2894-40fb-88c6-4ad01453a053,Jorge,Preston,80,Maddoxshire,North Carolina ,3,278.61,-7.6,2024-03-14,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Ronald,Mckinney,45,Port Ashleyberg,Colorado,13,83.31,2.33,2024-03-14,False
+6c16a676-ed52-4b96-ba2e-e93a3e4e77f9,Kari,Sanders,80,Reginashire,North Carolina,1,204.16,1.9,2024-03-14,False
+c20f4e64-5126-473e-8ba8-a888ade292a0,Susan,Ellis,63,New Steven,Kentucky,20,496.41,1.54,2024-03-14,True
+4b3c1577-be29-4f2f-9f37-dd27541d4c31,Christopher,Williams,76,East Lynn,Hawaii ,16,161.56,8.6,2024-03-14,True
+4b1e880b-9aeb-4413-8557-d1a1f8ecad26,Chris,Harrington,51,Port Donnashire,Arizona,-14,96.37,9.52,2024-03-14,False
+9c684d4e-c954-411f-80a7-6e948070e182,Karen,Everett,69,Allenfurt,Connecticut ,23,461.61,-6.7,2024-03-14,True
+413e888f-f0d6-40fa-b62e-09bce6465f41,Natasha,Herrera,52,West Heatherborough,Hawaii,1,371.78,8.75,2024-03-14,True
+91ace03e-d542-4870-97d1-81f94fad62d1,Joseph,Madden,52,West Laurenburgh,South Dakota,13,185.92,1.14,2024-03-14,True
+df50ef45-91ca-464d-99e0-2f5b4548b0fb,Anthony,Lucas,47,Ronaldtown,Washington,19,17.19,-4.4,2024-03-14,False
+a76fbe1f-ef39-46c5-88f1-7c0cffe0df12,Brian,Smith,62,Port Jennifer,Colorado ,2,122.8,-8.5,2024-03-14,False
+e62c3c4e-bb4c-43e7-9f8d-12374c64e988,Charles,Santos,53,Lesterview,Louisiana,16,172.23,-9.37,2024-03-14,True
+8a070ea0-bf18-4ddd-b235-5ef42b4962e9,Tyler,Allen,43,North Elizabeth,Massachusetts,9,485.21,3.57,2024-03-14,False
+994346fa-335a-459e-a941-079bc9f19ba6,Laura,Swanson,47,Leonview,Kentucky,12,25.26,-3.81,2024-03-14,True
+f03a61fd-7670-4c42-98f5-8267de56fd80,Randy,Patterson,61,East Michaelchester,Alabama ,4,388.53,-4.69,2024-03-14,False
+10830874-5038-4386-8c79-6a570b4a362c,Joshua,Diaz,51,New Brittany,South Carolina,7,171.72,4.4,2024-03-14,False
+37ef4953-ab28-462e-bc41-98902a5236f1,Brianna,Macdonald,76,Port Stephanie,West Virginia ,7,144.76,5.18,2024-03-14,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Brandon,Fritz,67,Port Kathy,Colorado,8,257.97,5.4,2024-03-14,False
+d3846fa6-78e6-40fd-938c-75e87abe2ac5,Brandon,Martin,30,Port Scott,Ohio ,21,67.33,8.63,2024-03-14,True
+67515649-c47a-4db4-bf72-011cab28007e,Dylan,Oliver,44,Katherineville,Wyoming,13,85.8,4.3,2024-03-14,False
+b64faaed-f8be-4763-8b84-6a0693fe9c96,Jacob,Marshall,31,South Courtney,North Carolina,16,406.75,-7.92,2024-03-14,True
+665606a4-d91c-4f8f-b48c-ff9fd0e7e3a0,Thomas,Parker,25,Lake Kendra,Nevada,12,98.84,3.46,2024-03-14,True
+d2f22141-09e5-42ee-be87-8aca61008085,Joel,Stout,30,Logantown,Nebraska,22,451.21,6.58,2024-03-14,True
+e4b19512-75f7-46f9-9df8-f90256342aa3,Timothy,Lawson,48,New Cassandra,Florida,16,84.95,-2.4,2024-03-14,True
+9bd99b2c-c2f3-4bb7-8b2c-562d62a8f9f1,Jade,Green,78,Christinaview,Massachusetts ,2,236.29,-2.0,2024-03-14,False
+a12bff37-6aec-4800-991f-07918c172336,Sophia,Kim,49,Davidberg,Vermont,13,106.44,-3.91,2024-03-14,False
+c2c11e18-584b-49fc-921e-97ce3a51ee1c,Frank,Lopez,61,Whiteshire,Pennsylvania,14,288.29,2.67,2024-03-14,True
+423c6eb9-a6d4-4712-8cd4-2a9e35b48303,Marissa,Santos,26,Andrewshire,Maryland,20,259.77,3.91,2024-03-14,True
+93f6ee33-1794-480b-a163-f13b07e135d4,Carl,Guerrero,41,Gloverborough,MICHIGAN ,9,469.63,-7.43,2024-03-14,False
+726c5c25-679f-4483-b8aa-6401e0aaaa4b,Nicholas,Ellis,41,East Daniel,Arizona,18,266.43,-7.2,2024-03-15,False
+f36ec123-4710-47c2-b953-2f754cebcf07,Karen,Ward,77,South Dillonside,Louisiana,23,51.52,7.0,2024-03-15,True
+c1b71c0e-ee9d-403a-91b9-f8d2b12d2c1a,Billy,Fisher,77,Port Deborahport,Wisconsin,-9,295.52,-6.54,2024-03-15,True
+99532f26-9615-4240-becc-5a3895410f38,Todd,Young,21,Friedmanmouth,Indiana ,15,435.51,-4.79,2024-03-15,True
+644d1002-8d4c-4c9a-a872-50fe1f95ba28,Susan,Roberson,60,Desireemouth,Indiana ,23,213.48,5.26,2024-03-15,True
+bd812cf6-5767-4a2b-b4d7-53548af76237,Michael,Duncan,61,North Janet,Alabama,8,80.96,4.99,2024-03-15,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Sheryl,Harris,72,Riveraland,Vermont ,6,476.23,-8.97,2024-03-15,False
+1c06efb1-8a2a-41f7-8b88-9a2ac2996e0f,Sarah,Lopez,72,South Megan,Mississippi ,4,213.77,-3.97,2024-03-15,True
+e26b56dc-4bec-4796-9365-35ff0d99812d,Mary,Gates,54,Hudsonhaven,Montana,12,70.98,9.95,2024-03-15,False
+27bdce1d-67a4-4f0a-a8f4-eda00e7ad318,Dennis,Rivera,59,Finleyside,Colorado,12,53.8,3.56,2024-03-15,False
+f0509808-7561-4c52-9faa-b09506653b80,Laura,Rodriguez,73,Richardhaven,Michigan,22,185.72,9.18,2024-03-15,False
+bbfb6926-11de-41d4-92a8-94c7ba61e4cf,Joanne,Reynolds,55,South Christopher,Utah,22,117.31,7.47,2024-03-15,True
+3bfcb7ac-8c70-40a2-af0f-3201d014e82b,Julie,Nelson,59,Port Brittanyport,Texas,12,220.13,-7.13,2024-03-15,True
+86ef4a05-51c2-4956-9769-20ac47d728e8,Rebecca,Barber,26,Christophertown,Virginia,2,209.67,6.99,2024-03-15,True
+ceecbb8d-9490-43a1-ad3b-484d9168953f,Danielle,Bailey,65,Portertown,California,6,173.63,4.37,2024-03-15,False
+b3a92d88-8e19-43b8-b46c-c84d06a2b06d,Amy,Lopez,20,North Benjamin,ALABAMA,16,67.79,8.74,2024-03-15,True
+535e6756-bae3-4aba-9682-cd21bf1cf014,Margaret,Mendez,46,New Karabury,Wyoming,1,159.24,-1.56,2024-03-15,False
+b2da6559-7a37-4b42-aaeb-d95c1e706e97,Erica,Patterson,21,East Davidfurt,HAWAII,4,290.44,3.54,2024-03-15,False
+425d8a90-3720-48a1-b67e-8e25fb3f1d40,James,Leach,30,East Daniellebury,Michigan,16,14.1,2.87,0.0,False
+df89d783-d707-4993-ba00-f969630d1afa,Mark,Turner,22,Taylorstad,Colorado,0,478.76,-7.87,2024-03-15,True
+b9cf0c25-2479-40e4-abd0-58c19751d862,Jacob,Palmer,40,Lake Johnland,Oregon,10,395.31,-1.75,2024-03-15,True
+2389cd81-67ce-43df-ba5c-3366d8400893,Cynthia,Cross,36,Port Sharonville,Wyoming ,18,441.15,-5.33,2024-03-15,False
+ca230b2b-0a1d-4342-926d-a8bd0819a026,Sandra,Meza,80,Vincenthaven,Iowa ,20,299.63,-3.49,2024-03-15,True
+bdae31c8-3b01-4645-b46b-7e13f515d7e1,Steven,Hill,46,Ellisonburgh,Rhode Island ,1,240.68,4.82,2024-03-15,False
+c9446873-ea35-4f93-90fd-e8cda52d2ea7,Steven,Williamson,55,East Alexistown,Montana ,16,110.79,-6.88,2024-03-15,True
+e082e706-b58c-4dab-b74e-1e407212b1bc,Keith,Brown,40,Sandraberg,Florida,10,316.74,-6.59,2024-03-15,True
+e98c959f-4211-4d13-b491-2e4ee83e0b55,Adam,Kane,48,Christinabury,MONTANA,9,25.92,1.0,2024-03-15,False
+be2f0348-221e-4f38-85bf-3935001b6298,Kayla,Smith,38,Lake Michaelmouth,NEW MEXICO,3,220.89,-6.12,2024-03-15,True
+49c2d45d-ee84-4d99-a314-c49427552a0b,Kelly,Lambert,41,West Christinaberg,Oregon,22,469.35,-3.22,2024-03-15,True
+ab651a69-6055-43ef-935d-c4bf88bbe852,Sherry,Ayala,57,North Brianamouth,North Carolina,2,50.46,6.69,2024-03-15,True
+278ee2af-d6ac-468a-bf1b-444c8850891a,Ryan,Grant,37,Jenniferfurt,Connecticut,3,57.36,3.4,2024-03-15,False
+d75f074e-f8e0-4250-bf68-61057ca630ca,Joshua,Pierce,55,Murrayshire,Massachusetts,18,77.0,8.88,2024-03-15,False
+aeb85955-af79-49b8-a1b3-6763c5ed7985,Daniel,Mathis,51,Williamsonbury,Missouri,19,122.86,2.71,2024-03-15,True
+ddb678fb-545d-4f45-b813-b2cc8e9c87cb,Nicole,Tanner,33,Stewartborough,Oklahoma,6,68.57,-3.48,2024-03-15,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Kurt,Vazquez,58,East Sean,Nebraska,1,491.96,-4.82,2024-03-15,False
+aeea1ef4-c24a-4d65-953a-31cbe3b8947b,Jesse,Merritt,55,Georgebury,Wisconsin ,7,151.36,8.4,2024-03-15,False
+5c068c48-c726-439e-8bc5-2d8948480bc8,Ian,Lopez,66,Carrillostad,West Virginia,23,258.56,-5.57,2024-03-15,True
+f5ee380a-9ed2-4b60-bcaa-d505bc8de337,Austin,Richardson,55,Wilsonport,Alabama ,4,356.82,-4.52,2024-03-15,True
+0dcc3c45-d1ae-4103-a5cd-69f9dd5cac3e,Elizabeth,Oliver,35,Belindamouth,Delaware ,11,407.86,-1.59,2024-03-16,False
+3764a081-ba6d-4adf-81b5-f3d1dce11e1a,Deborah,Williams,23,Acevedoberg,New Jersey ,5,185.72,5.72,2024-03-16,False
+010b7007-029f-495e-83a1-89e25a1c230e,Rebecca,Wood,72,New Charles,Illinois ,1,397.87,-7.46,2024-03-16,True
+41c57e7b-fa4e-4e1e-9169-782c7aceda18,Michael,Ochoa,79,North Kendra,Tennessee,6,426.85,-6.52,2024-03-16,False
+5ea9dd69-ce80-47e8-b606-4837ae06ab91,Peter,Young,70,Port Julie,Tennessee,-1,260.37,-5.67,2024-03-16,True
+51c024d6-2fa1-4ea0-b827-c286a496eed3,Gerald,Castro,44,Sarahland,Tennessee,16,447.16,-1.56,2024-03-16,True
+84fc9d3d-24e4-4731-85b7-00f9c1cf280f,Teresa,Lawson,50,North Jamesview,New Hampshire,17,162.87,5.75,2024-03-16,False
+624829cc-9a0a-4dc7-96ad-2a7d7c0b5362,Christine,Cruz,48,Port Christinahaven,Pennsylvania,5,290.32,8.55,2024-03-16,False
+adc47499-03bf-44d3-8cb6-0f1ee5df5ba3,Julie,Butler,53,Smithside,Kansas ,20,451.8,6.7,2024-03-16,True
+5c8d6c38-0ec0-4021-8479-a22cc2c43649,Larry,Dillon,28,Rushborough,North Carolina,8,104.62,2.8,2024-03-16,False
+71b122cb-8009-464d-be97-5ba1a2ae2426,Cody,Gordon,35,Port Jonathan,Massachusetts,22,454.7,6.97,2024-03-16,True
+198235e4-9256-4525-afc1-51228682724c,Jimmy,Rodriguez,31,South Michael,Wisconsin,2,314.4,7.2,2024-03-16,False
+11ec0f73-3fcc-4a58-8184-e18e05ace51d,Kathryn,Clark,51,Karenberg,South Carolina ,6,356.38,-4.72,2024-03-16,True
+ab751f0f-5349-41dc-a990-32f42b6823ce,Peter,Willis,63,Anthonystad,Oklahoma,13,114.73,-9.5,2024-03-16,False
+433b2a35-13be-4925-9e62-a518a5220eb3,Kenneth,Ryan,47,West Stevenstad,Idaho,22,270.21,-2.74,2024-03-16,True
+be3fce4f-0f0e-4d9d-85b5-72226f151a16,Alan,Sosa,76,Ballardburgh,ALABAMA,2,371.58,6.97,2024-03-16,False
+a7c0d6e6-392c-441b-9632-3a0463ed4fa7,Eric,Lee,57,Port Jose,NEW HAMPSHIRE,12,185.95,-5.84,2024-03-16,False
+cfdd3502-9e5d-4e8d-9bb1-9a9395126aef,Lauren,Morrison,42,South Lisa,Oklahoma ,8,467.46,1.4,2024-03-16,True
+ade5b481-cc25-4c1b-9747-1ea259dbf0a0,Barbara,Wallace,76,South Jeffreyville,Maryland,11,480.21,2.25,2024-03-16,False
+70609e44-3e68-4161-87f1-4b03e4e5e094,Heather,Sanders,19,Matthewfort,MICHIGAN,0,100.33,-9.92,2024-03-16,False
+4e892c9c-6286-451f-bf13-48d7310eee05,Amanda,Blankenship,35,Robertbury,Ohio,0,435.23,-5.69,2024-03-16,True
+1fec266e-e14c-4c9e-af7d-8f1176d6f3e3,Erin,Baker,73,Wattsside,South Dakota,3,197.49,-2.87,2024-03-16,True
+f8077969-bc06-4312-9f8c-a3deadec16ce,Lisa,Abbott,75,Lake Thomasland,Pennsylvania ,-14,87.95,-4.44,2024-03-16,False
+2d2fe26a-e38d-41f4-a864-ce8fea998372,Derrick,Mcpherson,29,New Christina,Alaska,13,192.47,6.69,2024-03-16,False
+716bc23e-2717-4e5c-84db-75a12227e5c1,Kaitlyn,Booker,76,Lake Racheltown,California,4,487.7,8.55,2024-03-16,False
+8329292e-2145-4b52-9563-5575fe83ada6,Steven,Norman,53,Johntown,South Dakota ,21,50.71,-1.87,2024-03-16,False
+0b848a1c-32d8-465c-a253-0d02a0bd62b6,Nicholas,Cunningham,28,North Jeffery,Arkansas ,3,104.86,1.97,2024-03-16,False
+0ac7e637-494c-4d14-832a-cbe957c75f05,Joseph,Calderon,27,Christopherberg,Indiana,3,495.46,-7.57,2024-03-16,False
+0b4a4c60-6dff-4d06-b66c-d628f70c52ed,Katherine,Moon,44,West Scott,New Hampshire,2,52.9,9.98,2024-03-16,False
+31a0639d-6a51-469a-960e-0ecbf69a8c82,Timothy,Wallace,41,North Alicia,ALABAMA,17,426.41,-9.23,2024-03-16,False
+235ba93e-b523-41f7-a4bc-fb88e6a96b7b,Susan,Johnson,45,Sparksfort,Massachusetts ,13,480.85,-3.33,2024-03-16,True
+36ebb79c-4db7-4ee3-a31c-13c324a2deec,Gregory,Moody,39,Osbornview,Florida,14,395.22,-2.0,2024-03-16,False
+e9a19c29-99be-4d6d-83c2-d9ca68d0152d,James,Rogers,44,North Emilyburgh,Montana,3,391.4,-4.48,2024-03-16,True
+613f4f44-8610-43de-868f-e4a1252ac0cd,Jeffrey,Hale,30,Jaclynhaven,Colorado,13,437.47,-1.78,2024-03-16,True
+022dd4a6-f4e5-4a6e-bfe5-8134bf9d6da7,Anthony,Armstrong,20,Port Jamieburgh,Indiana,17,465.21,9.61,2024-03-16,False
+1410599e-a1bf-4084-9370-c1a45135f2cc,Bradley,Carlson,35,Morrisburgh,Virginia ,19,184.76,9.42,2024-03-16,True
+6e8eeff8-e212-42c0-8629-12b0cea1c656,Evan,Mcknight,59,North Rebeccashire,Nevada ,11,297.17,-2.17,2024-03-17,False
+c1caae62-92a0-496f-8e86-ab9c538a9474,Victoria,Mcdonald,39,Whitneystad,Mississippi,8,221.61,4.86,2024-03-17,True
+c476d728-8364-4cf6-82e9-32932ad1c2f2,Susan,Booker,41,Johnnystad,Nebraska ,17,300.58,-6.65,2024-03-17,False
+0621250b-c803-4f6e-9e33-0d7869fd29a1,Allen,Miller,75,South Angela,Louisiana,7,90.39,-2.49,2024-03-17,True
+90bd3ecf-e0f1-4ae5-8d62-06d884fc987a,Daniel,Duncan,72,Lake Donaldview,Alaska,22,232.68,4.4,2024-03-17,True
+840ea8f8-5cbe-47f6-b0b8-8c2b3f449bb7,Timothy,Bright,18,West Normaville,Texas,15,24.59,-8.78,2024-03-17,False
+0aee81da-f1cc-49b0-b3bf-9005ef8be467,Johnathan,Hayes,43,Elizabethview,Ohio,0,220.36,-9.74,2024-03-17,False
+df6f6d83-0b24-4807-a469-4c83adecc38b,David,Hernandez,52,Port Larryside,Wyoming,2,329.4,3.77,2024-03-17,True
+8e4cafa0-a6de-4caf-aaa0-12445f3cdc30,Calvin,Cervantes,59,New Amberbury,Montana ,7,237.9,-5.1,2024-03-17,False
+be32ce86-736a-4960-8afe-d2579032b7ba,Alan,Reyes,75,Downsburgh,Florida ,17,274.95,2.92,2024-03-17,True
+aea760c5-11ca-4b6f-88bb-5772c1b591bd,Victoria,Myers,49,Fernandoview,Minnesota,14,123.4,6.36,2024-03-17,True
+e561e2c7-4df0-4eb6-80a0-186d522a890c,Michael,Miller,79,Hillchester,Colorado,8,443.5,-9.6,2024-03-17,False
+fbeda607-ef5e-43c7-abf6-ada11b6ad78d,Melinda,Mitchell,31,Michaelshire,Idaho,20,135.38,8.89,2024-03-17,False
+d54384d5-19ac-43cb-87fa-7ebb43bdb655,Elizabeth,Johnson,69,Kaylafort,Rhode Island ,5,317.79,5.85,2024-03-17,False
+1d3a2e44-3750-4ae4-b295-f83c7e51f18e,Shelby,Davis,68,New Alvin,Maine,9,71.69,2.73,2024-03-17,False
+a6f3fe22-ddd9-4ae3-ba41-de3f5d76e60e,Emily,Frank,72,Williamsside,South Carolina,22,98.1,1.19,2024-03-17,False
+cb7cee74-2050-4eee-b4dc-e57aa7cab258,Joshua,Lopez,60,Port Joy,Hawaii,6,269.5,9.52,2024-03-17,True
+6848fb61-5183-480f-9924-add0a362b73c,Angela,Greer,18,Annaberg,Minnesota,2,44.71,-6.83,2024-03-17,False
+e3d5683b-3b09-4b24-a47d-f3eaa3dd71f6,Travis,Harris,58,Port Todd,Illinois ,13,384.27,7.63,2024-03-17,True
+b76cbfb3-625b-49fa-88c2-1db8f4b73b23,Sonya,Hernandez,49,East Jacob,New Jersey,21,248.91,3.14,2024-03-17,True
+b89a5dbe-eecb-4561-9bd2-21f65a8f1bbb,Amy,Blankenship,57,Lake Keith,South Dakota,22,161.25,6.39,2024-03-17,True
+221cfe18-4a63-4877-8f6f-0bf156fb3e91,Jacob,West,68,West Adamstad,Illinois,2,308.37,6.82,2024-03-17,False
+9b49fcd0-12c8-4ad0-872b-e3d707a27daa,Stefanie,Jensen,36,Bellchester,Mississippi,9,32.24,3.2,2024-03-17,True
+3c5d9899-d274-4db5-ab24-c31438deda18,Jacqueline,Bradshaw,32,Port Heather,Rhode Island,18,188.72,-1.2,2024-03-17,True
+a2f60e15-ff0f-4b10-a0e1-9ff99be20292,Mark,Jacobs,25,Taylorton,Montana,16,483.96,-8.91,2024-03-17,False
+2ab77163-c532-466c-9653-c1ebe3a43980,Mark,Love,37,Vanessaville,Idaho,6,268.58,-6.64,2024-03-17,False
+3d7bb919-493b-4f38-acf6-e68de72519bd,Christopher,Walton,43,Lake Jill,Nebraska,19,238.9,9.57,2024-03-18,True
+23ee3583-4c75-4873-b74a-724e06342f19,Frank,Ferrell,72,Reyesburgh,Illinois,11,453.6,-1.19,2024-03-18,False
+71c64832-534f-4c48-b478-e0dfbfcf2da3,Gabriel,Sanders,50,New Ericaside,Massachusetts,5,271.24,7.19,2024-03-18,True
+1c50930e-43be-43b6-95f8-3abd78612f6e,Kristina,Cruz,63,Tabithaborough,Illinois,20,154.55,-7.25,2024-03-18,False
+d7ede994-a7f4-4ff9-83df-f89fb7135577,Victor,Williams,27,New Adam,Louisiana,11,357.66,-6.59,2024-03-18,True
+7cdd6044-905d-402b-a050-fcf2419934c0,Steve,Willis,68,Juliefurt,Iowa,2,357.76,-8.6,2024-03-18,False
+74f5cdaa-67cd-4ebd-a5e6-14cd21e61f0e,Alyssa,Chung,75,Edwardston,Washington,16,84.7,8.4,2024-03-18,True
+d56c758a-04c3-4d3d-b640-13f855d8e98c,Jessica,Bailey,48,Jefftown,California,20,72.63,4.23,2024-03-18,False
+06833e9f-3d3b-4ea3-8903-03ee6d0025e9,James,Boyer,35,Braymouth,West Virginia,7,207.48,1.61,2024-03-18,False
+a6116513-9939-4fbc-8a74-cd2a212b4db3,Gabrielle,Gonzales,62,Cookport,Missouri,9,252.86,9.33,2024-03-18,True
+2901b4a0-baa9-45c5-afd5-5d90892e0ff2,Casey,Casey,21,Harrisfurt,SOUTH DAKOTA,22,243.28,7.2,2024-03-18,False
+8eb339d3-2f31-49a4-9f02-f07b89f96b62,Alexander,Bailey,32,Kevinton,New York,0,219.64,-4.3,2024-03-18,False
+a8e5e779-80fc-438b-8211-e9b1a9efdd77,Timothy,Cooper,74,Port Williamfurt,Utah,12,243.69,4.5,2024-03-18,True
+34a5714f-4337-4826-a728-a08ded0aa2dc,Melinda,Daniel,64,Robersonville,NEW HAMPSHIRE,5,470.0,-8.81,2024-03-18,False
+14cc1418-d489-4eca-ad15-252c014c2385,Mary,Quinn,45,East Russellburgh,Kentucky ,16,295.11,3.65,2024-03-18,False
+c71ed369-0749-4924-a0ec-b5275b6a34a4,Morgan,Anderson,78,West Jacob,Vermont,12,6.7,7.72,2024-03-18,False
+ab8240a0-c5e2-4069-939d-db450dd2c791,Darlene,Phillips,48,Pattersonchester,Delaware ,22,57.8,5.64,2024-03-18,False
+ea6b963f-43f6-4653-9c1a-fb23c542621c,Chelsey,Baldwin,19,Lake Joe,Kansas,6,191.54,2.85,2024-03-18,False
+ff7ea4d8-6170-45f4-9193-41a6c5abb60b,Deborah,Hill,32,Snydermouth,ARIZONA,-18,243.76,-8.86,2024-03-18,False
+8afca348-550c-4289-bf37-68c618ff9618,Pamela,Gonzalez,44,Romerobury,North Carolina,19,222.5,0.76,2024-03-18,True
+642ff4bd-3e63-454b-9226-2deb16eaa86e,Julie,Wilson,26,North Donaldton,New York,0,17.78,-6.46,2024-03-18,False
+b0ffc715-33b0-4a75-bf10-725c10550953,Patricia,Smith,66,Kevinfort,Arizona,13,61.19,-1.1,2024-03-18,True
+6f6f3555-11c2-400a-a22f-0d05842ee483,Diana,Williams,52,North Adam,Michigan,5,488.62,6.2,2024-03-18,True
+9b1c8cf8-af57-47c4-8e26-40899e8d0bde,Chris,Figueroa,60,Guerreroberg,WASHINGTON,9,38.38,-5.47,2024-03-18,True
+73d2c706-b30f-416b-a91a-73386294f9fc,Amanda,Rich,56,New James,Rhode Island,6,393.68,-7.4,2024-03-18,True
+bc398598-0bd7-49fa-8b0b-7f7ae4355ee9,Timothy,Randall,54,Stevensonside,Kentucky,18,410.2,-1.2,2024-03-18,False
+ee13ebc0-fd9b-486e-89f8-aa449133c16d,Steven,Cole,49,Johnsonhaven,Arkansas ,8,10.5,-2.83,2024-03-18,True
+5872c22f-1f3d-4dc5-be7c-68a6ae6eacbc,Jesse,Tran,77,South Jonathan,Oregon,12,79.6,1.8,2024-03-18,False
+ae9f1b07-d040-4ccb-8e6d-4b783f47f97b,Brenda,Garrett,48,Port Rebecca,Washington ,21,114.84,-3.37,2024-03-18,False
+90eec7e3-d448-46aa-80cc-46c03fe043e9,Larry,Brewer,31,Billyberg,Rhode Island ,12,438.71,7.3,2024-03-18,True
+53a78971-1400-42f6-ad52-067a3d21d2b3,Adam,Lynn,65,West Katherine,TEXAS,11,56.85,-5.88,2024-03-18,False
+57cb123f-e57d-44f2-a0ac-55a579cb9545,Dawn,Wilson,18,East Michaelshire,Louisiana ,17,273.56,-6.22,2024-03-18,True
+84429959-9d52-4682-b522-aea4c1b37371,Rachel,Benton,52,Lake Cassandraburgh,Wyoming,12,140.82,7.76,2024-03-18,True
+5771fae6-4f10-4543-8d8c-ca9ff80a3937,Eric,Thompson,36,North Meaganland,New Mexico,9,50.87,0.43,2024-03-18,False
+104401fb-8abb-4b79-9eee-722aed681076,Thomas,Taylor,32,Robertsville,Maine,14,234.25,4.29,2024-03-18,False
+465e5143-3c18-47e1-abe7-b78bf7d5dfd7,Francisco,Cooke,44,Hamiltonport,Louisiana ,2,422.27,8.74,2024-03-18,True
+a26c4870-1e7d-4b80-8595-933cc0b63f74,Richard,Nguyen,23,Port Kristin,Indiana,11,266.38,-8.9,2024-03-18,False
+3ceac379-9c17-45ca-abf1-ce4820f1e28e,Rebecca,Chavez,65,Lake Cherylburgh,Alabama,10,326.26,9.32,2024-03-18,False
+3e5bee29-4f87-4aed-be54-e77c1ba5d038,Cassandra,Wood,45,Port Annetteside,Ohio,2,74.96,4.65,2024-03-18,False
+55920f7d-bbd7-4e05-93b7-d0a9c94089bd,Michael,Rivera,72,Cannonbury,South Dakota ,14,225.68,4.83,2024-03-18,False
+3cc7b82f-2447-4475-9666-896fbe3c8295,Dennis,Carter,39,Lake Terriville,Utah,6,424.22,-2.92,2024-03-18,False
+98b9919f-2b30-4e33-b19e-5ab3044d8ba5,John,Jacobson,53,Johnview,North Carolina,7,436.74,-3.52,2024-03-19,False
+eda230ba-e4ce-45d9-be93-9decc6aa6513,Melinda,Alexander,66,New Wayne,Montana,14,438.7,-9.67,2024-03-19,False
+527fb697-073c-436f-a1f6-3cd45bba956f,Joseph,Hoffman,29,Gloriamouth,North Carolina,19,135.57,-6.56,2024-03-19,False
+0913161f-1901-4240-a8cb-faa045fe5dee,Tammy,Barber,42,Port Monica,Minnesota,1,298.71,3.9,2024-03-19,False
+dbcea42d-d47b-489d-80a2-e4f5314b12f8,Jane,Shelton,19,Port Peterville,Arkansas,4,126.7,8.13,2024-03-19,False
+6a9a5e58-a5dd-40e3-b103-6f844a819c42,Ryan,Newman,55,Hillstad,Massachusetts,-7,18.67,-5.1,2024-03-19,False
+2b5a021e-4fff-4ddd-b2e9-1a04e3e423d5,Jonathan,Buckley,72,New Hailey,SOUTH CAROLINA,22,398.67,8.53,2024-03-19,True
+72873327-67b8-430f-a8fc-f7ed22f8673c,Sarah,Stevens,65,Lake Julie,Michigan,-8,427.29,-6.31,2024-03-19,False
+e58451ea-da03-426f-b663-a81b63ee7051,Adam,Taylor,51,East Mark,Oklahoma ,22,186.5,-9.2,2024-03-19,True
+6ab0fadc-72b6-4f85-a249-c6180f3a3e2a,Angela,George,26,Millertown,Mississippi,12,140.79,-6.86,2024-03-19,True
+27b16f51-7af4-4bf9-901d-afb3628ef8c6,Lori,Hill,73,North Sandra,North Carolina,14,119.67,-5.9,2024-03-19,False
+9198823a-eb1f-46d7-8d08-b26c81749d19,Angela,Hayes,46,Port Richardfort,Wisconsin,13,23.71,-4.46,2024-03-19,False
+2286b0f6-1c30-46e0-be7a-b218d483a95c,Richard,Pugh,72,Port Tony,Illinois,21,15.62,-5.57,2024-03-19,False
+842734b3-1f76-47aa-9ba3-9d0ff0ad7f3b,Terry,Alvarez,19,Jonathanmouth,Texas,21,49.62,1.97,2024-03-19,True
+2a76f151-20cb-436c-b657-8f0f84da322d,David,Thompson,48,East Travis,KANSAS,14,2.11,1.55,2024-03-19,False
+9e1b921d-19c6-419a-a7e7-39c5e390a057,Lisa,Ramsey,47,Taylormouth,Nevada ,12,339.25,6.94,2024-03-19,False
+04976e2f-5d6b-4f90-b7c7-1f06a371a489,Shane,White,34,Karenberg,Illinois,21,32.42,-8.6,2024-03-19,False
+9b9130ed-0c3e-46f4-8934-2f1243e3b24f,Vanessa,Stewart,47,East Faithside,Rhode Island,17,370.19,1.38,2024-03-19,False
+e1bc5650-0d2a-4ed5-87fe-b036ab9f3c23,Brett,Romero,72,Meyerport,Indiana,11,108.15,3.96,2024-03-19,False
+fd6c7f72-d257-4faa-8e86-a335a9b68503,Carlos,Fitzgerald,52,Emilystad,Alaska ,14,400.27,3.91,2024-03-19,False
+57c70180-51da-416b-bc9a-c34d50974117,Douglas,Sparks,73,Phillipshire,Alaska,0,332.78,7.42,2024-03-19,False
+633ccd1c-5adb-4e35-9746-c9e537f50972,Melissa,Alvarez,42,Port Mary,Oregon,23,297.9,1.25,2024-03-19,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Kimberly,Moore,60,Aliciaburgh,Idaho,15,406.65,5.47,2024-03-19,True
+694a554f-3ad2-4c00-99f7-2104a0f547fd,Michael,Nichols,57,Spencerview,South Carolina,9,253.0,-5.8,2024-03-19,False
+a6e8014f-3c2f-4a1e-b11e-dd27a92da4ad,Barbara,Johnson,80,Clarkshire,Colorado,7,490.5,-8.62,2024-03-19,False
+94caf541-b4e9-4eea-a445-b28814c11b16,John,Wright,26,Lake Lisabury,Oklahoma,3,104.26,-4.11,2024-03-19,True
+5ebb72ff-799e-43b1-9c11-f3c64b0579f6,Jessica,Johnson,72,Rachelside,North Dakota,18,487.29,9.94,2024-03-19,False
+f08915ea-0a17-4baf-a084-df161c6d48cc,Kendra,Flores,41,West Joeltown,COLORADO,8,273.55,-4.82,2024-03-19,False
+402a0ab2-ebc6-47d8-97e1-c3308d0e7613,Nathan,Norton,37,Riveraport,Vermont,21,305.46,3.57,2024-03-19,True
+95a76e14-3f00-4a73-8f5a-ea64ca58abe5,Amber,Martin,55,North Anne,Tennessee,14,379.92,-6.91,2024-03-19,True
+0ce6fded-cb71-4584-980b-5d486add3071,Christine,Mejia,69,Port Craigton,Alabama,22,141.13,-7.2,2024-03-19,False
+99b8f75e-879b-492e-b8b5-23b9338178c4,Michael,Garcia,21,North Andrewmouth,New Hampshire,10,420.44,-6.56,2024-03-19,False
+98d07bd9-d8fd-474d-8fff-050f6274ca4f,Samuel,Adams,32,Bakerville,Indiana ,1,360.29,4.38,2024-03-19,True
+9011a543-17ff-41d1-bc5f-d874179771fc,Melissa,Wilson,26,Wellsborough,Michigan,17,489.2,0.69,2024-03-19,True
+c0002c87-7b6e-424f-9f59-518071f782dc,Scott,Hoover,80,North Taylor,California,1,33.86,-8.42,2024-03-19,False
+546c8085-7b82-4cac-8315-de51f0df9ccc,David,Willis,33,East Melanie,North Dakota,3,4.83,6.71,2024-03-19,False
+0134e56f-f4f4-460a-ab3c-b5544d4a04d3,Susan,Jacobs,28,New Joseph,Indiana,4,101.16,-7.57,2024-03-19,True
+58426c7b-f08d-4ec9-b754-34bfc41fe466,Caleb,Tate,47,South Madelinebury,Indiana,3,59.23,-7.31,2024-03-19,True
+1491bec5-141c-449a-98bd-7d03d41d9f86,Taylor,Charles,64,South Stacy,New Jersey,5,254.59,6.48,2024-03-19,False
+6326bede-d9af-4c4b-b9b8-4b8406cf352b,Diane,Fitzpatrick,23,West Karenberg,Iowa,4,44.6,-9.65,2024-03-20,True
+c1e9b6a1-d81d-4948-a6f7-e731969ab224,Nancy,Sherman,38,Connorchester,New Mexico,11,339.23,2.28,2024-03-20,True
+e81a61cd-c055-4876-bf15-9e7fa113cbec,Ricky,Gibson,24,Lake Rita,Arkansas,2,498.74,1.49,2024-03-20,False
+376d0d58-619d-464e-bfab-a6ea70f381b3,Ashley,Clark,50,Acostachester,Indiana,-2,447.2,-5.37,2024-03-20,False
+61ff9239-2fc1-4150-987e-2d811ba0f2c9,Daniel,Rivera,34,Chapmanview,New York,15,143.1,8.32,2024-03-20,False
+144f7d42-100f-4b9b-b761-8e2e7b5eee79,Michelle,Hardy,31,Stevenborough,North Carolina ,6,260.87,0.72,2024-03-20,True
+049066b9-b48e-49fb-8569-04475eb1e7a3,Rachel,Ford,30,Masonton,Oregon,1,468.82,-8.24,0.0,False
+7c78c610-7c14-4717-98ae-2e86bf0c8853,Anthony,Bush,73,Smithmouth,Florida,2,274.63,0.37,2024-03-20,False
+5ea2b60e-9804-46f4-a910-24ef7405c253,Ian,White,69,Salasfort,Virginia,3,127.0,3.82,0.0,True
+de1f82e1-db69-459e-acc2-9dbc3220667e,Mackenzie,Martinez,23,Bradleyland,Alabama ,14,445.68,-3.94,2024-03-20,False
+4233613e-a20c-4797-848a-f969254857cb,Mark,Martinez,28,Jeffreyton,New York,8,68.23,7.7,2024-03-20,True
+2f3fdfcd-9edc-47b0-b027-52c813aa9bf9,Maria,Garcia,33,North Trevor,NEBRASKA,10,468.22,6.39,2024-03-20,False
+f5cdedc9-3e78-4064-aa46-93799c4b44c9,Patricia,Mccormick,32,Amandafurt,Louisiana,13,171.33,5.44,2024-03-20,False
+360b3825-9eed-4aad-8374-7fdba1c04b22,Scott,Moran,71,North Tylerhaven,Nevada,13,53.0,-6.55,2024-03-20,True
+8cd44e9d-dca1-41bd-9643-e65d25b1e7da,Emma,Ford,25,New Debbieland,New York,19,1.47,-3.23,2024-03-20,True
+c09dc521-813f-4fad-a32e-927fea7a3b44,Julia,Vincent,33,Amyville,Virginia,4,396.2,-1.98,2024-03-20,True
+36b1fefa-5e64-4652-8910-e39224992911,Donna,Rodriguez,40,North Chadchester,Indiana,3,58.59,6.57,2024-03-20,False
+b57b6106-e0c7-4630-b62d-69a74e481889,Sean,Robinson,76,North Jasonport,Nevada,6,332.87,1.11,2024-03-20,True
+7cd0d954-7677-4a09-98c2-fa502580c86c,Kristen,Norman,29,Natalieside,Texas,16,18.52,-2.24,2024-03-20,False
+d9d62e4c-4b18-4dba-beea-8477664d7e6d,Sharon,Cook,28,North Ericville,New Mexico ,0,480.96,2.4,2024-03-20,False
+b28289a6-bfdf-47a0-9d47-8b67970d543d,Michael,Ochoa,23,New Ianton,NEVADA,1,65.33,3.37,2024-03-20,True
+9a7751c4-c06c-40c5-8624-9b56d31a4295,Daniel,Sullivan,31,South Alfredville,Missouri,10,152.0,9.41,2024-03-20,True
+b6779414-d2b3-4e88-a6cd-c39ba11f8153,Jeremy,Flynn,67,East Stephenland,Kansas,21,31.61,1.47,2024-03-20,True
+6734a337-cc37-4bde-b99f-baba56faba99,Charles,Lee,69,Lake Traci,Rhode Island,4,498.1,7.21,2024-03-20,True
+ddadf039-85b6-48df-90d4-606c5896bb55,Donna,Wright,44,New Tammyville,Wyoming,13,15.49,-6.72,2024-03-20,True
+ef2f98b0-ea32-4898-afc1-a9d27eb5a1da,Victoria,Rogers,45,New Iantown,South Dakota,2,495.94,0.59,2024-03-20,True
+0f8bdff7-2690-40c3-9d90-dab71490777a,Jason,Barton,46,Alanside,Utah,6,63.53,-3.96,2024-03-20,True
+d16e3efa-4e6e-4f9e-b381-3c970db110c4,Julia,Johnson,67,West Bradville,Texas,20,279.59,-8.11,2024-03-20,True
+41f7440d-293b-4eb9-af44-783f1a61755a,Lisa,Lin,43,Woodchester,Connecticut ,21,59.67,-3.89,2024-03-20,False
+4641b87d-c335-4801-8977-6b847c1eb43a,Andre,Huff,18,New Deborahfort,Vermont,11,74.98,-6.27,2024-03-20,True
+0a16c5e5-3a71-47c0-87ff-a20b48dffc65,Zoe,Sullivan,19,New Lisa,Illinois,18,454.16,-4.26,2024-03-20,True
+8f9bde30-ee01-44e6-a3be-32b3769718ab,Daniel,Mitchell,70,Carolinechester,Texas,3,45.11,-4.88,2024-03-20,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Veronica,Smith,51,North Deborahshire,Minnesota ,4,149.43,-5.4,2024-03-20,True
+ad5b978b-859a-4ed8-8867-0792cb62897b,Kayla,Friedman,43,East Charles,Tennessee,17,141.77,-7.7,2024-03-20,False
+1a6f64db-3439-498a-a389-dee8ad230acc,Amy,Mayer,68,Smithfort,Georgia ,1,198.75,-8.23,2024-03-20,False
+736af8f6-8fa3-4779-86e3-402aff26ced3,Arthur,Davis,68,Kochfurt,Ohio,0,307.96,8.29,2024-03-21,False
+47bf20c4-fcfc-468e-973e-dbea2a89af3e,David,Horton,39,South Lisa,Virginia,8,364.67,6.35,2024-03-21,True
+62288e1e-8956-4534-9acf-aea4d14be736,Ricky,Long,77,Baileyborough,Missouri,22,77.35,4.3,2024-03-21,True
+a73396e2-78f8-4cbb-9770-20147784d294,Alexander,Fitzgerald,71,Davidmouth,Texas ,1,196.66,-7.33,2024-03-21,True
+7822acc1-d4d3-4053-8d69-908f46269f98,Alice,Larson,63,South Kimberly,New Jersey ,18,88.85,-5.8,2024-03-21,False
+b077af44-4a50-486b-abfe-dfda2d7dc7cc,Henry,Nguyen,74,West Jennifer,Texas,10,223.79,4.54,2024-03-21,True
+93117be2-af72-4467-8c43-3b25b559379f,Robin,Taylor,29,Smithville,South Carolina,13,25.92,2.74,2024-03-21,True
+8075dd0d-d13a-485f-bdf3-9f761252418a,Joseph,Castillo,53,Jonesside,Arkansas,11,206.94,-4.64,2024-03-21,False
+1fcd8c6c-2aee-4acd-8b20-19e62d79b27f,Clifford,Bennett,38,Port Collinberg,New Hampshire,19,9.34,-3.89,2024-03-21,False
+efec43b3-33c8-402e-adde-076b445d7f59,Kimberly,Nguyen,23,Lake David,Alabama,10,370.98,5.21,2024-03-21,True
+061e2f9b-5b35-4af1-92f9-0bb2dfa4b1f2,Bianca,Strickland,77,Rothshire,Connecticut,5,28.28,-9.88,2024-03-21,True
+7253c036-168b-4f02-8660-06ff408ce843,John,Bell,47,North Joshua,Minnesota,17,320.41,-8.31,2024-03-21,True
+ecc05249-f4f4-4d15-a432-c8cc0eb20fdf,Mary,Garrett,76,Hernandezland,Massachusetts,6,235.14,2.98,2024-03-21,True
+be3bde9a-0118-4b2b-806b-0d8dfe61075f,James,Fox,59,Port Charles,Vermont,5,152.46,6.86,2024-03-21,False
+cea13dd5-b040-44a5-b2d3-0ccf198a955d,Howard,Butler,38,Brandimouth,Florida,8,7.31,-3.97,2024-03-21,True
+8553eef4-2983-47ee-b40f-b6b1f36c4a99,Jennifer,Murray,63,New Angelashire,Wyoming,7,19.96,2.36,2024-03-21,False
+2a037495-488e-495c-bf05-ecaabb468eae,Sarah,Brown,60,Port Douglasview,Massachusetts,8,427.82,-7.68,2024-03-21,True
+4d2112ea-f8a3-4030-8829-bfaa91a2fa4d,Roger,Warren,68,Calvinbury,South Dakota ,13,243.7,3.54,2024-03-21,False
+20a9bcc5-c9c6-45ff-bf64-5b285c4e7251,Nathan,Wilson,78,Clarkfurt,Pennsylvania,13,440.99,-9.91,2024-03-21,False
+f2551755-bc12-4300-af2d-dfd1c5c9ee63,Amanda,Dunlap,25,East Cory,North Carolina ,19,302.37,6.85,2024-03-21,True
+e9f89bb8-053e-42a5-a365-81ece96e0d99,Larry,Everett,34,South Andrew,Iowa,10,136.88,5.88,2024-03-21,True
+74c483ca-39f6-4c49-a1eb-5ddcea921734,Timothy,Reed,71,New Joshua,Mississippi,19,18.54,3.53,2024-03-21,False
+17cbdc21-8a9a-4a7e-9d39-bec8258bb922,Catherine,King,40,East Tyler,New Jersey,8,320.92,8.3,2024-03-21,False
+ed630c5d-ddac-431e-a4e9-e87299b7f645,Phillip,Banks,30,Claytonmouth,New York,13,424.62,8.77,2024-03-21,False
+fdfb1e2e-1eb7-41eb-9f1f-ef3a445c267b,Kristin,Berry,41,Yanghaven,Ohio,15,237.14,4.88,2024-03-21,False
+3b4a25a7-4542-421e-a7cf-39c8bb811947,Alexandra,White,51,Gabrielmouth,Missouri,10,105.82,-2.63,2024-03-21,True
+d21c695d-b643-43fa-b632-d804f4281727,Laura,Fisher,39,North Timothybury,Massachusetts,19,353.5,-2.87,2024-03-21,True
+f2b8e1c0-fb8a-4e42-9e5f-addffe299354,Stephanie,Barber,48,East Maryberg,Oklahoma ,10,384.6,-4.24,2024-03-21,True
+da1b0bd3-3fa9-4155-bc12-e783165d4ec7,Tammy,Johnson,46,North Whitneytown,WEST VIRGINIA,1,127.9,-4.99,2024-03-21,True
+2ddbd4e3-1447-41c8-9e65-50f2753c78a6,Crystal,Buchanan,55,Tammyshire,Kansas,2,131.14,-5.18,2024-03-21,False
+253a7183-5f70-47b5-8227-174dcb243677,Aaron,Ryan,21,Lake Anthonymouth,Oklahoma,-16,1.82,-9.8,2024-03-21,True
+2f3bb5b9-6ad4-4b94-88e7-4835fb0e1d85,Lacey,Morgan,72,Ashleemouth,OREGON,2,163.53,-9.16,2024-03-21,False
+84a5c538-8a2e-4385-b7b1-25a7209f21b3,Ryan,Mullen,36,South Amandastad,Rhode Island,14,240.91,7.96,2024-03-21,False
+5914e4ec-5084-417d-bfc1-140cef2a6803,Allison,Arnold,51,North Thomas,Virginia,17,109.76,5.23,2024-03-22,True
+51d033c4-cb9d-4afd-bf57-5dec4b2cb833,Kevin,Hobbs,62,Michaelborough,Nevada,5,8.59,3.55,2024-03-22,True
+55462c24-b857-4415-bcd9-f32989f15135,Jason,Garcia,35,New Jenniferville,Tennessee,22,402.49,-8.94,2024-03-22,False
+230a6b8d-763c-4936-9ef3-de4d22051bf9,Jessica,Sandoval,58,North Rhondaberg,Connecticut,12,356.36,-8.67,2024-03-22,True
+af61b671-0911-4043-b3ff-ca738b278e04,James,Gutierrez,64,New Cindy,Missouri ,2,268.8,-2.45,2024-03-22,True
+9fc80fb3-e4c4-49f6-a96b-22141032cb60,Julie,Carter,51,Rogerside,Wyoming,10,402.16,-1.46,2024-03-22,False
+9c9594c5-5f2d-4c83-b616-e1d97fe1b348,Yesenia,Goodwin,79,Kirbystad,South Carolina,8,51.2,-8.86,2024-03-22,False
+9680376e-63a2-43a2-9b5f-66fbbac0b84e,Bryan,Williams,71,South Darrenhaven,Missouri ,13,438.87,7.4,2024-03-22,True
+9019effc-e5dd-401c-ae16-d2c7b1be6f74,Stephen,Nguyen,30,Courtneyhaven,Illinois ,10,186.55,-2.28,2024-03-22,True
+61d71046-f1cc-4de3-b7ec-77648d5c86c6,Karen,Wade,63,West Eric,Connecticut,0,191.58,1.5,2024-03-22,False
+3a0f2e5c-ff31-4b6a-b68c-093ecaaf125c,Jennifer,Brown,75,Lake Marybury,New Mexico,21,48.2,0.97,2024-03-22,False
+53e90f72-d615-4612-a37c-934fd7458b87,Joshua,Williams,45,Foxberg,Indiana,8,228.65,-9.34,2024-03-22,False
+3bf3c733-74bd-49d8-b680-5cf3f50dd416,David,Herring,73,Sotoborough,Nebraska,11,261.2,1.94,2024-03-22,False
+1ec9ecb4-1254-472c-af94-2e0cb52a6ed6,Diana,Freeman,60,Smithborough,Indiana,15,486.51,4.41,2024-03-22,False
+a6aae393-3f09-4db2-ae32-d22147ec9c92,Mia,Smith,44,Martinezfort,Missouri,19,368.87,5.62,2024-03-22,False
+c820ca01-2c23-42cc-a225-5c977b011446,Eddie,Brown,46,New Calebside,Kentucky,21,28.6,-2.38,2024-03-22,False
+67e4ce8d-7834-43bd-bcfd-500a79abee1a,Heather,Ramos,63,Boydton,Oregon,18,39.61,6.14,2024-03-22,True
+5ca386e6-e688-4542-8c7e-d4a0f58dffe1,Tina,Briggs,62,Bowenhaven,Tennessee,20,371.6,-8.39,2024-03-22,False
+c222b2d3-ed4a-44cb-ad91-cd2ed71a80d1,Raymond,Sanchez,65,South Brittany,Oklahoma,3,457.67,-1.64,2024-03-22,False
+0c7ff390-dec4-47bb-92a7-f2bf3aa45a6e,Stephanie,Randall,61,New Marieview,ILLINOIS,1,232.4,-7.67,2024-03-22,False
+cfa9d4d0-27af-4e68-a337-eee2c5aa4d17,Peter,Martinez,54,Traceychester,West Virginia,22,18.8,7.44,2024-03-22,True
+05a84ab7-a93e-4b1b-a0d9-f6f03b97fb1e,Lydia,Pugh,18,Joshuaport,Pennsylvania ,16,90.12,6.87,2024-03-22,False
+04074600-9492-437f-947c-701acd1c52cd,Timothy,Santiago,38,Susanton,Vermont ,15,88.69,0.97,2024-03-22,False
+8acb001f-befc-46c6-8c3a-d79fa2a2428b,Wesley,Smith,40,Jaredfurt,Pennsylvania,7,302.8,3.7,2024-03-22,False
+20384f3d-1716-4a22-8870-34c8efdbfe9f,Jenna,Drake,24,Reedland,New York,18,175.95,-7.74,2024-03-22,True
+2dfa44fd-326e-4dd5-96dd-ab44f5064cb4,Ebony,Hill,36,Chelseaport,New Jersey,16,214.62,-5.18,2024-03-22,True
+2399bf6a-0a87-4d90-b1fd-bf609174fd01,Amy,Morris,46,Rachelchester,New Mexico,12,332.53,2.56,2024-03-22,False
+b17a85f8-9948-4a5b-804f-0a7b49a6ddab,Jill,Sanchez,31,Chrismouth,New Jersey ,9,335.19,7.74,2024-03-22,False
+2b24e7fb-6bb8-43b9-a72a-eb7c3bb9fb6f,Caitlin,Chavez,24,Lake Claytonberg,GEORGIA,20,181.64,4.83,2024-03-22,True
+6bd8d31d-1091-4fdc-9282-494ec4ab1faa,Brian,Carey,57,Travismouth,Maryland,17,199.5,1.6,2024-03-22,True
+09e0b535-6f31-45ea-80f1-165d1c674143,Matthew,Patton,38,Ianland,Kansas ,1,236.0,6.58,2024-03-22,False
+44238b25-b993-492d-b639-715645c70df6,Kristin,Douglas,31,Simmonstown,Arkansas,4,407.44,-4.75,0.0,False
+bb152141-9c49-4983-a8f8-d1e26f64bb19,Lauren,Gonzalez,66,Wagnermouth,Alabama,18,464.99,-5.56,2024-03-22,False
+b4a1e2e3-5d7d-44f5-81c7-620d03a14c1d,Tamara,Lewis,30,New Gary,Vermont,0,59.57,3.4,2024-03-22,True
+367c3a59-3654-492c-a285-8f4bb7a3dd2f,Carol,Thomas,38,Griffinhaven,Wisconsin,22,254.18,-3.36,2024-03-22,False
+85437a95-3000-4db7-ae4d-519757560d8f,Jason,Knox,49,Natashaville,South Carolina,2,226.98,9.17,2024-03-22,True
+308e5ea5-1c48-4ffc-b34d-6f8b5b910017,Shane,Dougherty,54,North Larry,Washington,0,196.7,-8.77,0.0,False
+d5aa6230-3a3a-44a7-9dd9-4a6633f1fd52,Kelly,Brewer,58,East Brianland,Florida ,13,358.19,-4.99,2024-03-22,False
+45ce019f-2585-47a8-a023-9ff3bd5eed49,Glenn,Watkins,51,Sandraton,South Carolina,8,254.44,-6.6,2024-03-22,False
+7eee35ef-b570-44de-a932-0ea3ddcb4707,Angela,West,75,Thomasstad,New Hampshire ,14,400.88,-6.81,2024-03-23,False
+7fabb54e-6273-4ea0-864e-2bb4dcce0ac8,Carolyn,Molina,34,East Jennifer,Maryland,22,440.55,2.0,2024-03-23,False
+39a2f770-79d3-4724-ae33-d812d29b013c,Patrick,Banks,72,Lake Kristinefort,Arkansas,13,197.2,9.7,2024-03-23,False
+fc433290-d470-47a5-b70c-dd88c04cc684,Jacob,Martin,24,Courtneybury,California,17,248.6,-6.59,2024-03-23,False
+b2044a75-3cad-4bea-bfcf-4efa29f96c68,Mark,Russell,21,Medinaberg,New Mexico,1,382.2,-1.96,2024-03-23,False
+d1667a1e-1694-4a3f-b9fb-af715b978006,David,Rodriguez,33,Anthonyland,Washington,18,178.2,4.82,2024-03-23,False
+f151f87f-53c0-4841-b8af-f35637c6bab1,Michelle,Griffin,72,East Christinabury,Delaware,18,115.41,9.97,2024-03-23,False
+0cac088e-9aae-4450-b392-8003e71e4451,Scott,Day,26,South Melissa,Pennsylvania,0,91.45,-5.48,2024-03-23,True
+b6870f58-110f-4e4b-b664-237a14a1768b,Brittney,Ellis,33,Derekstad,NEW JERSEY,5,403.81,4.34,2024-03-23,False
+7e6b5add-cb4b-4eac-b09f-bdfd37bd7a4e,Victoria,Payne,42,Lake Laura,Georgia,23,219.5,3.16,2024-03-23,False
+9dc69664-4ee6-40f6-866f-3382ea6e56d8,Jose,Spencer,33,Mathisfurt,Wyoming ,0,438.76,-6.27,2024-03-23,False
+bcedf50a-b0be-4c6e-bb80-dec7da4c1c27,William,Murphy,47,Davidfurt,New York ,1,338.59,1.46,2024-03-23,True
+987f74cf-6f60-4b9e-a3a7-e9749a880626,John,Morrow,80,New Joseph,Kansas ,21,240.19,-2.52,2024-03-23,False
+46bdb7e6-ebec-4122-94e0-0d1fe494ab2b,Dawn,Arias,75,New Lawrence,Virginia,12,408.31,8.24,2024-03-23,False
+1384d485-3883-4477-b4e6-030b8a4b5a80,Susan,Butler,66,New Laurahaven,Washington,14,152.57,-4.35,2024-03-23,True
+be279bc6-e570-43d6-a9b7-d348a5f73c22,Molly,Estes,76,Lake Lawrence,Alabama,3,40.98,2.2,2024-03-23,True
+6a6b7d07-ab60-40d8-9217-de7d0a2eb525,Anna,Castillo,23,South Mark,South Carolina,9,181.8,4.46,2024-03-23,True
+5e03f01d-7964-40fb-a4d9-9027d7d27758,Erika,Alexander,74,Lake Haleyberg,North Carolina,1,8.49,-6.69,2024-03-23,True
+5ab8722b-b036-4936-a16e-faba2c9a9e76,Elizabeth,Vazquez,27,Curtischester,Minnesota,14,466.2,-7.42,2024-03-23,True
+2f968b25-c513-43db-8383-a656e4a35b7b,Charles,Reese,49,Crawfordstad,Missouri,14,178.81,1.12,2024-03-23,True
+ea13f0ca-01a6-4fa0-95c5-65b3df08af0c,Chris,Obrien,25,East Anthony,Kentucky,11,131.19,-7.5,2024-03-23,True
+c8281518-8c47-4ee4-a121-e7ff9e31803b,Kevin,Lee,66,South Karen,Texas,18,384.41,-1.2,2024-03-23,True
+f451c30b-c7f2-4060-a375-65801faed4bf,Mary,Pierce,69,West Kevin,Ohio,6,254.41,9.91,2024-03-23,False
+1120bb20-8967-4262-a601-2d87dd9cf0f8,Andrea,Bird,26,North Dianaville,Kentucky,16,152.1,2.57,2024-03-23,False
+8dc2b2bc-8abc-47b4-896a-fd8d3caac964,Robert,Johnson,31,East Suzannebury,Delaware ,19,103.3,6.6,2024-03-23,False
+574e32ed-ca53-464f-ae59-1297aaec694d,Anthony,Lewis,27,Kendraborough,New Mexico,1,383.7,4.69,2024-03-23,False
+41593d94-8889-48da-95f4-85d76884937e,Michael,Diaz,62,Jessicamouth,NORTH CAROLINA,8,313.48,7.1,2024-03-23,False
+f5c9f0ad-8197-4745-b12a-41b204c6b630,Charles,Good,50,Nguyenside,Connecticut,6,379.69,9.87,2024-03-23,True
+38e26ea1-0704-488a-9e83-e96773e2346b,Desiree,Rodriguez,34,Bradyfort,South Dakota,4,324.91,2.36,2024-03-23,False
+1509dd73-dcc5-459e-9bbf-fb5dae0b9cfe,Cathy,Lang,36,North Megan,ALABAMA,1,52.27,2.38,2024-03-23,True
+4d076d68-ba0d-4395-90d5-d057914d3036,Alexander,Osborn,28,Robertsonport,Kansas,22,146.13,6.41,2024-03-23,False
+955625d1-23b3-4ddd-a01c-80218dc086bb,Renee,Flores,49,Port Shannon,South Carolina,18,221.69,9.83,2024-03-23,True
+e4fc73d9-75c6-4107-bacb-e9475ffe314f,Brandi,Cruz,77,Selenatown,WYOMING,1,60.43,-8.12,2024-03-24,False
+b7bdb711-c411-44cf-a124-d3ffb0d6509d,Kenneth,Romero,53,West David,New Hampshire,22,176.49,8.13,2024-03-24,False
+46ebe53d-0c3b-4e10-a9b3-e51d9e0b285d,Allison,Roberts,71,West Christopher,Nevada,-7,162.7,7.65,2024-03-24,False
+3de629ec-70d3-460d-b72f-b8fd801da034,Robert,Griffin,61,North Rachel,GEORGIA,6,28.8,5.78,2024-03-24,True
+e5faa2f6-813e-435f-9793-fd8bb849ccaf,Carly,Anderson,44,Mccoyfort,Iowa,6,352.93,0.87,2024-03-24,True
+ead21e3f-3ac5-446c-8dab-6226be712bfd,John,Paul,77,Port Cameronbury,Arizona,9,298.1,-2.97,2024-03-24,False
+efe576fb-3722-40b8-8987-bd31098d5447,Spencer,Meyers,52,Lunastad,Maryland,19,231.55,3.37,2024-03-24,False
+9e476c24-f6b7-4bc0-9ef6-b21a49680dee,Kim,Flores,79,Thomasberg,South Dakota,10,266.73,-1.24,2024-03-24,False
+6f160994-9aea-4129-b567-f6ab3649151f,James,Braun,78,Brianberg,Oklahoma,13,375.43,-5.81,2024-03-24,True
+0e0be151-6827-49f3-998f-ad3a35147623,Mary,Aguirre,29,Danielchester,Virginia ,19,72.86,-8.97,2024-03-24,True
+9fd4a6ee-8ce2-4f7c-ab34-c925b57ee8e7,Stephen,Rodgers,56,Port Richardchester,North Dakota,10,7.1,7.7,2024-03-24,False
+85d6cf57-255f-486b-a845-e017f7f90001,Ryan,Mitchell,33,North Frederick,Idaho ,16,221.17,7.0,2024-03-24,False
+366b8639-01c9-4e50-80de-ce56af2105f5,Larry,Edwards,37,New Calvinfort,North Dakota,18,311.69,3.0,2024-03-24,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Kristy,Cole,37,Emilyside,Hawaii,4,51.82,-4.54,2024-03-24,True
+7c633a98-492a-430a-91f3-33220a554cb2,Nicole,Miller,33,East Michele,New Hampshire ,16,350.5,3.17,2024-03-24,True
+0848412a-eac8-4016-a68a-1be5de67e309,Kelsey,Rodriguez,65,North Pamtown,Maryland,15,305.31,-1.25,2024-03-24,True
+1c3cabdf-559e-44a5-98f7-7ae6a9b06bf1,Jennifer,Cobb,57,Lake Christina,HAWAII,23,120.4,4.47,2024-03-24,True
+71df077a-46b2-477a-ba0e-5a334816d06d,Jenny,Carter,30,Karenfort,Delaware,15,100.36,-3.56,2024-03-24,True
+caf61a00-35e1-46aa-aa9f-38f0f8cb4272,Clarence,Anthony,77,Lindaview,Utah,9,296.17,-3.28,2024-03-24,True
+f612c8ce-813c-40df-b630-88c9d6e4b972,Michelle,Hernandez,40,Leeshire,MAINE,16,443.69,7.54,2024-03-24,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Eugene,Gonzalez,43,Port Susanborough,West Virginia,0,205.31,2.83,2024-03-24,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Jennifer,Leonard,59,Hollyland,Alaska ,20,288.55,3.61,2024-03-24,True
+6e357851-18e3-402c-9419-6227ad80afb6,Alexander,Jordan,54,Bryantville,MONTANA,1,413.93,6.98,2024-03-24,False
+e93c3a85-5a2c-4480-afb9-e853b92cea00,Matthew,Moore,57,Brendaville,Montana,6,108.0,6.9,2024-03-24,True
+accadc55-52ba-4562-80fb-e4024ba9b439,Christina,Lewis,46,Hayesfort,Virginia ,22,472.28,1.54,2024-03-24,False
+aff1e509-6777-4291-8366-13d2e5e42d10,Matthew,Johnson,39,New Katie,Delaware,0,339.79,9.16,2024-03-24,False
+45e89ac4-51cb-4249-9768-926f8e8b302e,Emily,Potts,22,Dustinland,Nevada,19,134.47,-5.94,2024-03-24,True
+c7887afd-7576-423d-b811-34529f26d080,William,Jackson,58,Saraborough,Arizona,23,361.88,5.6,2024-03-24,True
+a269feab-d92d-44da-baba-fdd8e0083a2e,Dylan,Santana,61,Port Christinaberg,Oregon,19,248.9,-5.1,2024-03-25,False
+709e7505-ab7e-486b-8c60-04e842e76fe2,Brooke,Johnson,41,Knighthaven,Ohio,10,184.55,-9.53,2024-03-25,False
+de391e7b-3f42-4049-be18-479537064dde,Ann,Wright,47,New Paul,California,20,260.48,-6.92,2024-03-25,True
+da3046e3-2f79-4d0a-be59-8e9add8c5058,Deborah,Brady,31,West Caleb,MISSISSIPPI,4,424.29,6.69,2024-03-25,True
+857b014b-b6a6-4f81-932e-e5f5c3491b7b,Kristopher,Kirk,55,Lake Kevinhaven,North Dakota,11,287.98,-4.16,2024-03-25,True
+304637c0-1b8a-458f-96f3-e34c965d973a,Thomas,Tran,63,Port Rodney,Wyoming,17,105.87,-3.49,2024-03-25,False
+9fa65efa-d069-4829-80f8-70a1fe36c315,Darryl,Washington,52,Port Chasemouth,Utah,4,158.58,-5.45,2024-03-25,True
+b348d704-045c-401d-b832-7c8aa326117d,Christopher,Meyer,29,West Christopher,Arizona,15,98.88,-6.35,2024-03-25,True
+e58aa4fa-bd8f-4587-a2b5-a19610cf8b4d,Jason,Tyler,52,Brooketon,Arkansas,0,166.14,-7.84,2024-03-25,True
+de758916-cc19-440c-a8b7-3330dae89e9d,Matthew,Rodriguez,77,Lake Jennifer,Connecticut,20,296.18,9.27,2024-03-25,True
+b208bb78-368a-4c2a-a209-548c0303a1eb,Michele,Cameron,65,West Renee,Hawaii,6,452.14,-5.81,2024-03-25,False
+ef74d996-b126-46ee-9503-ca64932ab883,Robert,Moon,22,Woodchester,Idaho,4,37.73,-3.26,2024-03-25,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Denise,Nelson,51,Quinnfurt,Oklahoma,18,245.63,-3.39,2024-03-25,False
+24282bff-63c3-4255-b2c7-99175f2924a0,Bridget,Johnson,51,Beverlyberg,Alabama,18,396.39,-5.53,2024-03-25,False
+5c5a53ca-8252-447d-942e-9b085a285158,Sharon,Wright,53,Hardymouth,Illinois ,16,426.34,2.89,2024-03-25,False
+da9e7773-7fba-40b8-b70e-300ae4b75f01,Thomas,Rivas,75,Christinafort,Oklahoma,8,231.28,3.49,2024-03-25,False
+2b1dd0a6-a2d0-4cb8-a34d-9d3df3919a92,Dawn,Powell,23,East Ericfurt,Kentucky,11,109.57,9.8,2024-03-25,True
+859631fb-210c-49fa-9266-0269e726d63e,Ebony,Calhoun,54,Port Crystalhaven,IDAHO,4,74.97,-5.23,2024-03-25,False
+1303401c-d7da-426a-af20-9107f1c28f8b,Craig,Cross,55,West Michellefort,Iowa ,9,96.22,-3.85,2024-03-25,False
+b1a0e701-bfb2-477e-8047-8b58f3154414,Chris,Gilbert,49,East Ronnie,Rhode Island,3,210.39,-5.82,2024-03-25,False
+bd4a2a24-6719-436b-a70c-2c99a73a925e,Reginald,Stewart,61,New Sheila,Mississippi,1,27.47,9.35,2024-03-25,False
+40f3c231-6833-4c14-98ec-cbe9a3569f63,Michael,Chase,19,South Maryport,Vermont,17,491.41,-2.86,2024-03-25,False
+4dcd096e-ae20-4642-9155-9486f9b9da85,Jamie,Allen,77,New Joseph,Pennsylvania,9,201.0,-6.31,2024-03-25,False
+03a8bb36-83bf-4bea-a098-427538f56d24,Melissa,Nash,18,Cookestad,Florida,13,424.67,-5.9,0.0,False
+7a9dbaf8-829f-4d90-88ad-2abefdd5efc1,Natalie,Martin,76,North Robert,SOUTH DAKOTA,13,168.25,2.53,2024-03-25,False
+24e4b639-2c54-4293-94de-fa2268ee8ede,James,Murphy,76,East Bobbytown,Indiana,17,80.21,2.49,2024-03-25,False
+6beec163-74b7-43ef-9da5-69d7c8823f01,Michael,Walters,44,Kellytown,New Jersey,11,153.7,-9.4,2024-03-25,True
+8339253d-e815-42be-99a9-860acfc75201,Hannah,Le,20,Gutierrezbury,New Hampshire,1,296.8,-5.26,2024-03-25,False
+485346ee-517b-44a5-b400-8f8e5622e54b,Anthony,Harris,37,West Robertstad,Delaware,7,362.12,-8.73,2024-03-25,True
+60e1b8ee-0c51-4f41-a367-65e2a3f31266,Cynthia,Thompson,26,Amyfort,Arizona ,13,164.9,7.93,2024-03-25,False
+06f671c7-1b76-4082-9399-3b04734fe773,Mitchell,Johnson,42,North Davidview,Wyoming,15,289.74,1.95,2024-03-25,False
+1cc56743-e533-40d5-b1ec-5e5bd2ab4ba8,Devin,Rodriguez,80,North Andrea,Mississippi,22,229.32,-3.44,2024-03-25,True
+472c4c50-6b97-466e-a246-1c06436b0ca4,Daniel,Doyle,51,West David,Kansas ,10,429.82,-3.98,2024-03-25,True
+8966e1a2-2d3e-4064-bfa4-2b700f54219b,Debra,Henderson,26,South Darleneview,WISCONSIN,13,198.29,7.48,2024-03-25,False
+dd01e740-9750-48ba-a1c7-0577daee6f86,Scott,Bailey,35,Andersonville,Wisconsin ,7,105.0,-2.54,2024-03-25,False
+1896f3f5-0224-432f-b795-7726a5c4fe6a,Rodney,Lewis,18,Lake Meganland,South Dakota ,3,364.98,9.88,2024-03-26,False
+befe44e1-6119-4bd3-98fc-908b04058d54,Elizabeth,Drake,64,Raychester,Kentucky ,13,120.99,7.77,2024-03-26,True
+57f617ac-1216-4ff5-8a26-7170cfbee170,Susan,Williamson,60,Fischerborough,Montana,8,424.6,-5.82,2024-03-26,False
+14edaa0a-aecf-4907-8a28-d0a7cf5a8155,Melissa,Mcdonald,52,Michaelberg,Pennsylvania,15,57.41,9.35,2024-03-26,True
+85a11b60-f06f-4506-b982-cb0d302f4792,Stephen,Gentry,63,Ryanhaven,Wisconsin,15,361.49,4.22,2024-03-26,False
+50240fc9-ed5d-46d6-b080-41aad75ee7af,Beth,Powell,44,Butlerport,NEW YORK,5,22.57,-2.12,2024-03-26,False
+540b3067-d40b-47d6-9292-4b49e4e43cd9,Roberta,Weber,74,Janiceberg,Arkansas,5,126.7,4.25,2024-03-26,False
+8aa3b5fd-778b-41ed-b7b9-99c1a53025fe,Evan,Guerrero,63,Alexiston,Tennessee ,18,6.49,8.47,2024-03-26,False
+03310ad7-8edd-4c2e-a52f-0df4f715155c,Howard,Mcdowell,42,Monroefurt,New Hampshire,5,279.2,-4.44,2024-03-26,False
+3e9402d3-492f-48c1-b862-372d627e27e7,Alexander,Salazar,53,Griffinborough,Maryland,14,109.42,-7.77,2024-03-26,False
+689c5946-9c8d-4a9d-9941-0bb67eaa331c,Mario,Parks,55,North Jamieport,Pennsylvania,16,168.19,-1.48,2024-03-26,False
+f078bc32-57f1-4b88-b1ad-84ac2cc367ac,Kristen,Montes,40,Nicolemouth,North Carolina ,14,297.14,-1.27,2024-03-26,True
+62544877-9e65-4983-a785-1f2569ba2bab,Tamara,Wood,29,Tinaport,North Dakota,21,269.1,1.7,2024-03-26,True
+c9a6d35a-1135-40e7-a674-dcacdffa11e9,Carlos,Davis,40,New Brettborough,Arkansas ,8,234.18,-7.17,2024-03-26,True
+d4870434-fcca-4b0a-9aaa-f5687aeee4c7,Michael,Patterson,66,Andrewside,South Dakota,20,113.49,8.81,2024-03-26,False
+f1715782-fbf9-42f2-940f-037cf2781654,Samantha,Perez,70,Ericksonton,Michigan,2,304.59,3.29,2024-03-26,True
+5fde34aa-ce35-41bf-a53f-542aa206b7cc,Kathy,Huang,28,Port Luisside,Louisiana,19,28.17,-2.77,2024-03-26,False
+f2a70c1a-27b0-4c92-8315-1c94d034ade0,Renee,Mcdaniel,78,East Rhondaton,New York ,19,304.0,0.64,2024-03-26,True
+c9f84e26-fe98-4143-ad3d-b262aba55548,Dawn,Martin,24,Hoodmouth,Delaware,6,90.42,5.88,2024-03-26,True
+9187f121-30dc-495b-81d2-b98b813fb6bb,Kevin,Jacobson,27,Parkerview,Florida,2,78.48,6.1,2024-03-26,True
+0341144c-997d-4c1a-9f75-6f8e1c5d574e,Jose,Martin,57,Villarrealshire,Mississippi,9,321.55,5.39,2024-03-26,False
+2e2b857a-4dd0-47bc-8f71-2e02a329c510,Barbara,Parsons,24,Port Michaelchester,Montana,17,214.56,-9.59,2024-03-26,True
+3d235fc1-f9d6-4aaa-b5c6-6fa703fea1f9,John,Hart,25,Gouldland,South Carolina,20,421.6,5.63,2024-03-26,True
+b0c227da-6c06-43b0-8b69-7b39b67e2f8b,Matthew,Glass,78,Lake Michael,Vermont ,1,499.11,-1.86,2024-03-26,True
+f9fb1c95-1b7a-4c6c-a116-356573313db3,Ashley,Martinez,76,East Christineberg,Illinois,19,288.66,-6.3,2024-03-26,True
+2a59d1fc-ea68-40bd-85b3-99db88edebe2,Christopher,Chandler,78,Lake Victoriaville,North Carolina,14,193.59,6.97,2024-03-26,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Patrick,Miller,28,Johnland,Montana,22,168.36,8.67,2024-03-26,True
+546c197a-3c65-4c5d-b425-acf4b5716755,Jonathan,Davis,52,New Nathaniel,South Carolina,11,464.45,6.98,2024-03-26,False
+adf8d164-1f3e-43bf-9edf-ce480eb115cd,Bradley,Mejia,68,Port Richard,Arizona,17,421.25,6.7,2024-03-26,False
+8b359d50-032a-4897-8d37-d6c06867f3c6,Raven,Young,23,Banksside,IDAHO,10,348.89,-2.79,2024-03-26,True
+ef07c100-757b-4e27-8ecb-2761f9e6b924,Alexis,Alexander,40,Dianeview,Missouri,1,291.0,8.32,2024-03-26,True
+7e1b2e8b-371c-4efa-9421-73cc8c03e2ee,Ryan,Diaz,63,West Terri,Arkansas,1,434.97,6.45,0.0,False
+9c875ffa-5d9a-446a-a8b5-a5ecb1b08b5d,Gary,Willis,29,Harrisonhaven,Wisconsin,6,107.66,-7.9,2024-03-26,True
+ba823c5c-eee4-4746-bfe0-ad48036a2df9,Christopher,Smith,73,Lauriehaven,Colorado,1,472.97,-2.26,2024-03-26,True
+fe1f51f7-7b77-4a5e-b90a-12d7af07e81a,Angela,Mathews,32,Petersonton,Kentucky ,10,72.69,-8.77,2024-03-26,False
+55f939a0-3de3-448e-b528-64c3a136ffa7,Ashley,Murray,51,New James,Delaware ,22,315.1,9.9,2024-03-26,False
+9127d866-a732-47c6-bad0-e1aa6679d76a,Lauren,Lyons,40,Port Katelynland,New York,8,326.85,-3.29,2024-03-27,False
+6dba69bf-ca62-4dc9-a930-b715d2a5e157,Heather,Nash,53,South Kimberly,Alabama,5,386.51,-3.37,2024-03-27,True
+154b5542-e14a-4ede-88c1-65368b5afd1d,Anita,Scott,24,North Williammouth,Illinois,20,29.63,-9.68,2024-03-27,False
+fb16dfb2-aeab-47f2-af06-a43a3df15623,Holly,Hubbard,32,Harrisview,South Carolina,5,446.89,2.49,2024-03-27,False
+1a17fdc9-a3ed-41bd-a87a-334c7925a913,Joseph,Allen,30,West Davidhaven,Kansas,15,57.0,7.57,2024-03-27,False
+9c2cf4cb-e074-4fb0-b81a-a9c29651d240,Sabrina,Johnson,62,Leahburgh,Wyoming,14,466.73,5.13,2024-03-27,False
+b6fb8612-d9d1-45eb-b43b-5ff3c688f6e4,Gerald,Clarke,64,West Laurenmouth,Delaware ,8,300.5,-1.8,0.0,True
+0db90689-890b-497e-8ce0-a5f80b148b80,Richard,Hernandez,23,New Whitneyport,North Carolina,17,438.83,4.87,2024-03-27,False
+9b8c728c-de5a-4f28-9630-c731db25389f,Christopher,Hart,52,South Dennis,North Dakota,21,121.69,-7.54,0.0,False
+4719e355-7db1-4eb8-a224-cdeaa2d9f32b,Melissa,Willis,71,Lake Jacobberg,Colorado,15,431.94,1.49,2024-03-27,False
+ebf1d57f-532a-4331-9bd0-b3e9e9d9a631,Jason,Cruz,37,Harrisfort,Wyoming,14,181.72,-1.27,2024-03-27,False
+53bf72cb-301c-4903-ba29-0e59ddb43e6a,Dennis,Blair,41,Rosaleston,Maryland,3,35.33,0.86,2024-03-27,True
+a28e5150-1895-49a0-ad33-cee5ee21afb1,Tina,Cook,42,Blackbury,Georgia,14,321.74,-5.97,2024-03-27,False
+e1402b45-1177-4d11-b89d-678dc46ef1bf,Tom,Valdez,42,Amymouth,Rhode Island,12,223.85,3.6,2024-03-27,True
+e97487c7-2396-4598-b9c9-c8838c969a06,Janet,Gilbert,59,Christopherside,Colorado,19,310.89,-5.16,2024-03-27,True
+b3d3f3ee-c5a3-4945-814e-4e931bd29183,Ashley,Keith,42,North Brendahaven,Colorado,18,278.63,-3.32,2024-03-27,False
+412732ab-e234-48c2-8002-d93531477818,Dylan,Sims,38,Port Jeff,New Mexico,5,23.66,1.35,2024-03-27,True
+03dee885-396c-43fb-95e3-ae450ed8261d,Jill,Morris,19,Port Gabrielletown,Delaware ,11,103.66,8.88,2024-03-27,False
+64bae98a-5671-4516-9057-3eb18a3a0d51,Tonya,Smith,46,New Michaelport,Georgia,23,130.65,-7.89,2024-03-27,False
+b86d5691-055d-41d5-a623-779b54573442,David,Hardy,72,Michaelborough,Illinois,10,144.82,5.17,2024-03-27,True
+70263dc8-62cc-489e-881f-755592682ef9,Deanna,Porter,69,Michelletown,Connecticut,20,172.23,5.55,2024-03-27,True
+faeba7d5-566c-4d5a-9f5b-ae81a91eebfd,Stephanie,Ortiz,28,Natashatown,Delaware,18,231.63,7.63,2024-03-27,True
+d7fc3c15-1844-4999-8514-c4ee098cf36e,Sabrina,Jensen,36,East Annaside,California,19,220.66,-3.59,2024-03-27,False
+5eb9e6e6-6e56-4313-8d12-37454b76c642,Nicole,Maxwell,46,Coxport,Tennessee,10,286.8,-7.39,2024-03-27,False
+636d3eed-569a-4d9a-a2f9-bd6c77561b26,Michele,Cisneros,23,Lake Lauren,Mississippi,4,496.9,-1.77,2024-03-27,True
+71bb429f-8645-457e-91ee-4b59b1aa7a63,Monica,Williams,64,North Timothy,Maryland,4,27.85,2.18,2024-03-27,False
+423e8713-8f5b-40b3-b04d-d165e1944c2b,Rebecca,Barton,39,Obrienmouth,Wyoming,10,148.34,0.36,2024-03-27,False
+71c15ea4-41a7-46fc-9905-e56e214d22de,Kelsey,Jenkins,66,Amytown,Indiana,17,53.16,8.68,2024-03-27,True
+2a170357-35cd-4b78-8dd7-6e23c3eaeeb8,Kelly,Horton,27,Lynnfort,California,14,316.66,-9.4,2024-03-27,True
+cfacedde-1785-4233-8049-0373df609077,Tara,Sanchez,69,Andersonport,Illinois,9,110.43,-8.51,2024-03-27,True
+7349da06-e608-40f4-8291-38e248133e36,Nathan,Bennett,73,Kennethview,Texas,5,195.13,1.77,2024-03-27,True
+99d8ab82-57f5-47bb-a7c8-72a15c03fc9d,Russell,Williams,75,Hillbury,NORTH CAROLINA,19,300.68,-9.56,2024-03-27,False
+f7825d74-a4f3-47f9-8e76-bf28382eefec,Kimberly,Knox,51,North Lesliebury,New Jersey,21,257.62,-1.71,2024-03-27,False
+e3d22309-def0-4728-aecc-518bc5eb086c,Rebecca,Thomas,67,Port Josephstad,Mississippi ,23,453.47,6.56,2024-03-27,False
+f4bae4c2-5a11-47c1-ac6f-46247bd2928a,Pam,Green,40,Clineville,Nebraska ,16,108.74,0.53,2024-03-27,False
+32159623-ce48-4924-a4de-334c7bf27961,Mariah,Peterson,20,Markview,Nebraska ,11,430.7,-5.46,0.0,False
+352778f4-8af2-4866-b599-f59f740eea52,Adrian,Porter,49,Stevenburgh,Vermont,15,187.5,3.28,2024-03-28,False
+f5cf65e0-0f19-49a1-87b1-a1cab80706f4,Jessica,Mooney,72,Taylortown,California,12,148.7,3.34,2024-03-28,True
+112dae6f-ffa3-4d4d-a18d-a6c8dd8b91d3,Donald,Davis,80,New Cheyenneview,South Carolina,23,122.26,-2.63,2024-03-28,False
+17c4538f-445a-4f36-ba1e-a1a1ad901d55,Jason,Tyler,38,Lake Carlaside,New York,2,455.52,9.6,2024-03-28,True
+fdcb18ca-0498-4c89-9e5d-4fbd9cd7bcc1,Joseph,Flores,41,Port David,Delaware ,15,162.29,1.48,2024-03-28,True
+d2c16033-1875-451f-8930-3d6d8874d819,Jason,Washington,75,Walkerport,NEW MEXICO,6,215.5,-9.74,2024-03-28,True
+fc0c63ab-cd8d-46b5-bd1f-78e090697b02,Brittany,Parker,49,North Wesley,Arkansas,13,102.26,3.64,2024-03-28,True
+a0897c00-937a-4972-bf94-68c569485b6f,Sandra,Moore,57,East Arthur,South Dakota,2,57.44,-8.12,2024-03-28,True
+b5cc8d04-a4c2-4c83-9979-37ae85fd03a1,Margaret,Beasley,41,New Heather,North Carolina ,12,146.5,-1.0,2024-03-28,False
+a88353b4-30d0-44b8-aa82-7f12b6ed9926,James,Cain,73,Lake Jacob,Alabama,9,61.49,-3.86,2024-03-28,False
+64bbc29d-e891-4c4f-961b-a59d4132edf3,Keith,Brown,44,East Abigail,Vermont,22,17.59,8.25,2024-03-28,True
+f0fcc52a-a1b4-44e0-8e5e-cd6240ed7848,Ryan,Rollins,39,Robinsonchester,California,1,95.74,7.64,2024-03-28,False
+4c3bf704-016d-4895-8cf1-25f9639d2c12,Marc,Richards,36,South Stevenfurt,Nevada,4,440.87,2.11,2024-03-28,False
+1966fcf2-3f04-43f6-b9bb-b83d2e256753,Edward,Morales,30,Lamton,North Dakota ,19,236.8,1.74,2024-03-28,True
+1022f2e9-0427-49ae-b1fc-db679efcc0da,Becky,Jones,42,Meganstad,Mississippi ,0,174.47,-7.61,2024-03-28,True
+ab744a04-b5ea-4a4a-bc5e-401e24329aec,Ian,Whitehead,32,East Christina,Montana,4,98.34,1.83,2024-03-28,True
+6ec2f23d-fb7e-413f-bef1-1bf440f75b9d,Rachel,Gross,65,New Erik,Massachusetts,16,82.89,-9.97,2024-03-28,False
+32e28828-1083-4105-afd2-cdeb2d9d232b,Kerri,Cox,76,Joshuabury,Wisconsin,22,351.0,9.21,2024-03-28,True
+cd46cb01-7147-4e28-9a53-966586eb91cd,Kristen,Martin,37,Romerohaven,Montana,13,302.82,6.7,2024-03-28,True
+903377a2-e2d2-415e-83da-213776662023,Haley,Collier,49,East Savannah,Texas ,0,15.21,-3.47,2024-03-28,False
+7ec53ce1-19c8-461b-8657-cccf0f095ce5,Crystal,James,30,Lake Carriemouth,South Carolina,7,356.67,4.13,2024-03-28,False
+cd2c0ae0-e3c2-4e56-ac4e-563e8dcc53f2,Rachel,Moss,23,Port Brittany,West Virginia,16,231.9,9.59,2024-03-28,False
+a9b64500-98ab-4bc1-b4b5-f8b06f32da0e,Tanner,Osborne,50,New Kristen,Virginia,4,107.91,-5.8,2024-03-28,True
+331d883a-1746-4d6e-997c-0fc2731d4a6d,Jeffrey,Schwartz,53,Quinnshire,Colorado,6,11.37,-8.43,2024-03-28,True
+d1d183fe-bf92-4bc7-94fe-a739ae56fb22,Benjamin,Alexander,73,Rosemouth,TENNESSEE ,19,170.63,-5.18,2024-03-28,True
+7cbbd119-ebdd-4f76-b9fb-6788848b2eca,Gloria,Jordan,65,Lake Jose,Rhode Island,20,104.82,8.88,2024-03-28,False
+97002467-4dc1-4176-a6cb-1134ecfec2b4,Bryce,Walker,58,Lake Debraside,Massachusetts,20,45.75,-7.86,2024-03-28,True
+0fb0c264-9a9e-45eb-8724-8af214754c6b,Julia,Reynolds,53,Rileyborough,Arkansas,9,317.46,-1.54,2024-03-28,True
+157eb224-2d7c-4619-9880-5dd0d85f2d92,Theresa,Anderson,34,Smithside,ILLINOIS,21,162.82,1.53,2024-03-28,False
+374f545f-30e8-4779-8824-287d4599ebe9,Michael,Wilson,77,North Angela,New Jersey,17,335.46,-8.2,2024-03-28,True
+f13f4a87-a141-4ff6-a1ba-40186fddb64b,Tiffany,Castillo,33,Georgeville,California,15,247.92,-4.95,2024-03-28,True
+15de82d0-dd89-4257-812c-d03d02da2a83,Tracie,Lopez,55,Christineborough,Michigan,19,74.39,-2.88,2024-03-28,False
+2b1bbfec-3cfe-47f7-9b47-51671e470edb,Shawn,Mathews,75,South Nancy,SOUTH DAKOTA ,9,233.43,-8.36,2024-03-29,False
+78e66a84-e8e8-4f78-a596-4f3eeaf839c8,Jacob,Smith,51,South Danielle,Colorado,0,398.21,9.13,2024-03-29,True
+9987d731-84e5-4b97-ab60-ba653f9b4ec5,Heidi,Kim,31,Heatherside,Mississippi,0,236.5,-9.66,2024-03-29,True
+70e540eb-13fb-4e10-b656-58f081e4420a,Janet,Harvey,71,Jasonbury,Michigan,7,13.84,-8.21,2024-03-29,True
+89cb850e-ba1d-4257-ad99-01c883403d81,Zachary,Jackson,40,Gonzalesstad,Utah,1,43.15,2.38,2024-03-29,True
+6766b249-08e1-4bab-b3ac-bc5e75016673,Daniel,Davis,73,Espinozamouth,OHIO,12,139.94,-4.29,2024-03-29,True
+4710b329-315d-4d87-8b84-9606f600426d,David,Foster,68,North Ivan,Nebraska,1,64.72,-8.94,2024-03-29,True
+dd01e740-9750-48ba-a1c7-0577daee6f86,Erik,Rowe,79,South Jimmy,Nevada ,23,308.27,-7.51,2024-03-29,True
+7ad475d3-7084-42a0-9eda-e0a7857c23f0,Tina,Evans,59,West Norma,South Carolina ,4,337.26,-9.46,2024-03-29,True
+a7572561-8b0b-4dbe-aa79-efe4d31486f4,Natalie,Owens,55,East Williamton,Hawaii ,11,139.65,-7.27,2024-03-29,False
+46fbe88e-b673-4c83-b55d-517b3be23dde,Michael,Mcclain,57,Greenborough,Illinois,19,213.27,1.64,2024-03-29,False
+11a85dbd-f2de-445b-8bcc-437153c83825,William,Hampton,53,Ericburgh,New Hampshire,12,438.13,2.48,2024-03-29,True
+baa59a69-5c97-4005-8b9f-906a2c978bdb,Nichole,Brandt,39,South Brandon,Illinois,3,382.14,-5.48,2024-03-29,True
+54a36a8a-ceeb-480f-a914-758ad24822a4,Erica,Meyers,79,North Meghanmouth,California ,21,160.32,2.34,2024-03-29,False
+c269e7c2-f565-45fa-8f37-9edfa0e0c9df,Tracy,Summers,32,Lake Alyssaville,Michigan,18,375.7,9.89,2024-03-29,False
+f9ca068e-c291-4161-a13b-49db38619e48,Cameron,Johnson,67,Elizabethshire,New Mexico ,3,223.27,4.2,2024-03-29,False
+e2962736-64d9-47d3-8354-989961528f80,Morgan,Kirk,38,Meganchester,Idaho ,21,33.54,0.5,2024-03-29,True
+9df34fff-7fb1-4972-8079-6b9b1ee29a02,Travis,Lester,70,Codyville,Tennessee ,15,283.28,8.22,2024-03-29,False
+0644e0d4-4fc1-4857-a456-097f46dc4149,Julie,Sanchez,32,Boyerborough,IOWA,2,48.95,4.24,2024-03-29,True
+cdb0ceac-b383-4c4e-ba48-6ecf1c843676,Karen,Smith,56,Port Matthew,North Dakota,15,336.13,2.4,2024-03-29,True
+cdad37c9-a5c1-41bc-91a8-4b52d9180c41,Alan,Morrison,22,Jenniferfort,South Dakota,15,136.5,-3.34,2024-03-29,False
+bf639ad5-fb97-4f0e-8d20-6ddc7d7679c8,Jennifer,Hernandez,39,Perryburgh,Iowa,23,195.8,-9.55,2024-03-29,False
+4a67163b-b687-424f-90ed-a9bcc87a1fcb,Stephanie,Drake,39,Deannatown,Utah,17,300.52,1.85,2024-03-29,False
+45abb85e-7392-4cfd-aa54-a7043af8bcd6,Ashley,Blevins,36,South Rose,Rhode Island,17,493.42,-9.94,2024-03-29,False
+0d50ca11-076c-4191-927b-d8704bef2b23,Tammie,Lane,49,Johnsonton,Wisconsin,23,476.59,-9.22,2024-03-29,False
+298513d3-0369-40b7-b73f-2b8693ad1b7a,Samantha,Payne,30,West Jasonbury,New Jersey,9,356.19,9.59,2024-03-29,False
+44313c7b-4584-450e-a986-485535893d83,Emily,Navarro,40,New Danaberg,Wyoming,20,133.55,-8.19,2024-03-29,False
+c38e1167-54f8-46c8-9f29-bf3d6e83d7e6,Brandon,Figueroa,39,Lake Sarastad,North Dakota,9,443.83,-9.27,2024-03-30,True
+172c2280-f2c6-439f-8acc-e5be8b5a712d,Vanessa,Torres,69,New Michaelview,West Virginia ,18,103.59,-1.4,2024-03-30,False
+af6dfcca-0585-4344-a34d-7f17ecb83d95,Jared,Wallace,31,North Ianview,Arkansas,18,39.59,-3.62,0.0,False
+a7755c8a-b624-4afb-9f3c-fd88a2b5e775,Laura,Walls,58,Port Susan,New York,22,345.76,8.82,2024-03-30,True
+07558b42-ccae-43f4-b471-7fc904eadec7,George,Young,70,Clarkborough,South Dakota ,14,147.8,9.24,2024-03-30,False
+4c277518-d0bc-4ec2-bb6b-727917246a28,James,Poole,79,Jamesmouth,Wyoming,8,304.28,-5.66,2024-03-30,False
+f884baa4-e59a-4370-87bd-d926249eaf92,Brian,Walker,31,Lake Mackenzie,North Dakota,15,104.43,-6.52,2024-03-30,True
+3835ba8b-5a63-478c-aa9e-9a0ae98d9332,Daniel,Calhoun,76,Lake Marie,Hawaii,6,184.9,-9.83,2024-03-30,False
+3b7561a8-bc01-41a6-98c7-90605f6691f3,James,Brown,44,New James,Massachusetts ,2,449.91,-1.28,2024-03-30,True
+15c2061c-2d4b-4285-b581-f89dd0b2fb57,Maria,Alvarado,40,Flowerstown,Montana,0,80.15,4.12,2024-03-30,True
+a308cbfb-baba-40b1-af89-2516855c5238,Rita,Ward,19,Smithbury,North Dakota,8,417.41,-3.8,2024-03-30,False
+60ddcf21-5945-4711-ba1a-e50f23ed97df,Robert,Clark,66,Loganfurt,TENNESSEE,16,256.49,7.19,2024-03-30,False
+bf15a85c-ee67-457a-9168-caf521630323,Jake,Morales,54,Jerrymouth,Pennsylvania,10,248.92,8.1,2024-03-30,True
+66680130-a68d-4252-834b-a82bded26bc9,John,Terrell,35,North Anthony,Alaska,7,329.98,4.66,2024-03-30,True
+94276fb6-9100-4e9b-a87f-21673c17404f,Derek,Underwood,22,Garciatown,Pennsylvania,8,91.76,-3.22,2024-03-30,False
+17782175-9acf-4f5a-ac81-48afb5fffe7c,Michael,Foley,80,West Carlos,RHODE ISLAND,18,211.21,-4.85,2024-03-30,False
+52c3c40a-2d3d-4c06-9c70-c44fd98f5986,Nicholas,Lucas,80,West Adrian,OREGON,2,17.52,8.94,2024-03-30,True
+025ca048-37f7-498f-b2b7-a57aecd137c3,Eric,Reyes,63,New Kathrynside,Ohio,7,74.14,2.32,2024-03-30,False
+c9d8207a-4b0a-4d63-848b-e34e9a34cd70,Travis,Bruce,61,Watkinsport,Virginia,23,482.41,-1.79,2024-03-30,False
+68d57e12-1fe5-4118-a1da-ba4ffa49ffda,Blake,Floyd,70,West Michelleview,Missouri,7,470.91,6.87,2024-03-30,False
+6ff26380-8afb-4269-a9ca-913ff619fd5a,Erica,Greene,35,Fieldston,Alabama,8,311.52,-6.93,2024-03-30,True
+23d8d53d-3a9c-44f1-a7ef-04fe6e7b7958,Eric,Gutierrez,71,Williamchester,Vermont,10,117.54,-4.96,2024-03-30,True
+275f9442-1ff0-4458-aa6a-7e09d4306b30,Robyn,Henderson,79,Alexanderville,Ohio,2,476.97,2.72,2024-03-30,True
+a31ae41e-69bc-4533-baa5-e934a01e8be0,James,Warner,50,New Sara,North Dakota,4,146.36,-7.8,2024-03-30,True
