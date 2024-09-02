@@ -4,7 +4,6 @@ This is the repo for the EARL 2024 conference workshop "Building data pipelines 
 
 ## Getting started on Linux/Mac
 
-
 ```bash
 # install virtualenv if not present
 pip install virtualenv
@@ -14,14 +13,11 @@ python3-m venv dagster_env
 source dagster_env/bin/activate
 
 # install dependencies and repo
-pip install-r requirements.txt
+pip install -r requirements.txt
 pip install-e.
 ```
 
-
 ## Getting started on Windows
-
-
 
 ```powershell
 # Install virtualenv if not present
@@ -35,7 +31,6 @@ python -m venv dagster_env
 pip install -r requirements.txt
 pip install -e .
 ```
-
 
 Then, start the Dagster UI web server:
 
