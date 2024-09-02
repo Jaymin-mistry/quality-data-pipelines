@@ -2,15 +2,40 @@
 
 This is the repo for the EARL 2024 conference workshop "Building data pipelines in Python" https://earl-conference.com/  This repo contains the skeleton code to start the project,
 
-## Getting started
+## Getting started on Linux/Mac
 
-If you have a bash compatible system, you can setup the project by executing the  `setup.sh` script
-
-First, install your Dagster code location as a Python package. By using the --editable flag, pip will install your Python package in [&#34;editable mode&#34;](https://pip.pypa.io/en/latest/topics/local-project-installs/#editable-installs) so that as you develop, local code changes will automatically apply.
 
 ```bash
-pip install -e ".[dev]"
+# install virtualenv if not present
+pip install virtualenv
+
+# create and activate virtual environment
+python3-m venv dagster_env
+source dagster_env/bin/activate
+
+# install dependencies and repo
+pip install-r requirements.txt
+pip install-e.
 ```
+
+
+## Getting started on Windows
+
+
+
+```powershell
+# Install virtualenv if not present
+pip install virtualenv
+
+# Create and activate virtual environment
+python -m venv dagster_env
+./dagster_env/Scripts/Activate.ps1
+
+# Install dependencies and repo
+pip install -r requirements.txt
+pip install -e .
+```
+
 
 Then, start the Dagster UI web server:
 

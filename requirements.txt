@@ -1,6 +1,6 @@
 ipykernel==6.29.5
-dagster==1.8.2
-dagster-webserver==1.8.2
+dagster==1.8.4
+dagster-webserver==1.8.4
 dagster-ge==0.24.4
 great-expectations==0.17.11
 xlsxwriter==3.2.0

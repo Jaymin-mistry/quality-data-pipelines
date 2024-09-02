@@ -4,7 +4,7 @@
 pip install virtualenv
 
 # create and activate virtual environment
-python virtualenv dagster_env
+python3 -m venv dagster_env
 source dagster_env/bin/activate
 
 # install dependencies and repo
