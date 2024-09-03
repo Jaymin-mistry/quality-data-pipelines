@@ -14,7 +14,7 @@ source dagster_env/bin/activate
 
 # install dependencies and repo
 pip install -r requirements.txt
-pip install-e.
+pip install -e .
 ```
 
 ## Getting started on Windows
@@ -25,7 +25,7 @@ pip install virtualenv
 
 # Create and activate virtual environment
 python -m venv dagster_env
-./dagster_env/Scripts/Activate.ps1
+./dagster_env/Scripts/activate
 
 # Install dependencies and repo
 pip install -r requirements.txt
